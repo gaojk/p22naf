@@ -1,0 +1,18 @@
+{
+	"voidAll": {
+		"parent_id": "",
+		"obs_name": "",
+		"obs_id": ""
+	},
+	"checkSameName": {
+		"parent_id": "1",
+		"obs_name": "软件部",
+		"obs_id": ""
+	},
+	"checkDiffName": {
+		"parent_id": "1",
+		"obs_name": "软件部123",
+		"obs_id": ""
+	}
+
+}

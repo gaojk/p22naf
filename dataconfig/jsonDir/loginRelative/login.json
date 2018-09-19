@@ -1,0 +1,6 @@
+{
+  "rightLogin":{"work_number":"jc0001","password":"123456"},
+  "voidLogin":{"work_number":"","password":""},
+  "wrongWorkNumberLogin":{"work_number":"abctest","password":"123456"},
+  "wrongPasswordLogin":{"work_number":"jc0001","password":"88888888"}
+}

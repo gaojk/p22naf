@@ -1,0 +1,17 @@
+{
+	"voidAll": {
+		"parent_id": "",
+		"type_name": "",
+		"duties_type_id": ""
+	},
+	"createZhiwuType": {
+		"parent_id": "",
+		"type_name": "zwTyp1",
+		"duties_type_id": ""
+	},
+	"editZhiwuType1to2": {
+		"parent_id": "",
+		"type_name": "zwTyp2",
+		"duties_type_id": ""
+	}
+}

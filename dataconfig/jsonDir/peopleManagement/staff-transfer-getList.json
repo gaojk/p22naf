@@ -1,0 +1,23 @@
+{
+	"voidAll": {
+		"obs_id": "",
+		"keywords": "",
+		"limit": "",
+		"status": "",
+		"work_status": "",
+		"transfer_type": "",
+		"transfer_time_start": "",
+		"transfer_time_end": ""
+	},
+	"search": {
+		"obs_id": "",
+		"keywords": "",
+		"limit": "",
+		"status": "",
+		"work_status": "",
+		"transfer_type": "",
+		"transfer_time_start": "",
+		"transfer_time_end": ""
+	}
+
+}

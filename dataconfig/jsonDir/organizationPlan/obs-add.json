@@ -1,0 +1,42 @@
+{
+	"voidAll": {
+		"parent_id": "",
+		"obs_name": "",
+		"obs_abbreviation": "",
+		"duty_staff_work_number": "",
+		"establish_time": "",
+		"plan_staff_num": "",
+		"isno_company": "",
+		"note": "",
+		"company_name": "",
+		"company_type": "",
+		"industry_name": "",
+		"administrative_code": "",
+		"duty_paragraph": "",
+		"business_license_code": "",
+		"approval_code": "",
+		"juridical_entity_code": "",
+		"legal_person": "",
+		"legal_person_idcard": ""
+	},
+	"createObs1": {
+		"parent_id": "4",
+		"obs_name": "jesseTest部门添加1",
+		"obs_abbreviation": "",
+		"duty_staff_work_number": "",
+		"establish_time": "2011-11-11",
+		"plan_staff_num": "",
+		"isno_company": "1",
+		"note": "",
+		"company_name": "",
+		"company_type": "",
+		"industry_name": "",
+		"administrative_code": "",
+		"duty_paragraph": "",
+		"business_license_code": "",
+		"approval_code": "",
+		"juridical_entity_code": "",
+		"legal_person": "",
+		"legal_person_idcard": ""
+	}
+}

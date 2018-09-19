@@ -1,0 +1,14 @@
+{
+	"voidAll": {
+		"field": "",
+		"value": ""
+	},
+	"positionNameCheck": {
+		"field": "position_name",
+		"value": "JAVA"
+	},
+	"positionCodeCheck": {
+		"field": "position_code",
+		"value": "1001"
+	}
+}

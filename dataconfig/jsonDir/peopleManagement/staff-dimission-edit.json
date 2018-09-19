@@ -1,0 +1,25 @@
+{
+	"voidAll": {
+		"dimission_id": "",
+		"dimission_type": "",
+		"dimission_time": "",
+		"salary_stop_time": "",
+		"gjj_stop_time": "",
+		"shebao_stop_time": "",
+		"handover_work_number": "",
+		"dimission_why": "",
+		"questionnaire": ""
+	},
+	"editDimission": {
+		"dimission_id": "",
+		"dimission_type": "1",
+		"dimission_time": "2011/11/11",
+		"salary_stop_time": "2011/11/11",
+		"gjj_stop_time": "2011/11/11",
+		"shebao_stop_time": "2011/11/11",
+		"handover_work_number": "",
+		"dimission_why": "bbbbbb",
+		"questionnaire": ""
+	}
+
+}

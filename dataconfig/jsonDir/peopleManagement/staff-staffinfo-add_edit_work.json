@@ -1,0 +1,32 @@
+{
+	"voidAll": {
+		"staff_id": "",
+		"work_id": "",
+		"start_time": "",
+		"end_time": "",
+		"company_name": "",
+		"position_name": "",
+		"salary": "",
+		"work_describe": ""
+	},
+	"createExp1": {
+		"staff_id": "1",
+		"work_id": "",
+		"start_time": "2011-11-11",
+		"end_time": "",
+		"company_name": "Google",
+		"position_name": "TSF",
+		"salary": "10",
+		"work_describe": "test Google TSF"
+	},
+	"editExp1": {
+		"staff_id": "1",
+		"work_id": "",
+		"start_time": "2012-12-12",
+		"end_time": "",
+		"company_name": "Facebook",
+		"position_name": "Umaru",
+		"salary": "20",
+		"work_describe": "test Facebook Umaru"
+	}
+}

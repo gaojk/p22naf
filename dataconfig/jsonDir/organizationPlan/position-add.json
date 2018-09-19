@@ -1,0 +1,19 @@
+{
+	"voidAll": {
+		"position_name": "",
+		"position_code": "",
+		"obs_id": "",
+		"duties_id": "",
+		"plan_staff_num": "",
+		"note": ""
+	},
+	"createPosition": {
+		"position_name": "position1",
+		"position_code": "99999",
+		"obs_id": "1",
+		"duties_id": "5",
+		"plan_staff_num": "999",
+		"note": "position1test",
+		"position_id": ""
+	}
+}

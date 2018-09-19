@@ -1,0 +1,22 @@
+{
+	"voidAll": {
+		"obs_id": "",
+		"keywords": "",
+		"page": "",
+		"limit": ""
+	},
+	"searchRole1": {
+		"obs_id": "",
+		"keywords": "测试角色1",
+		"page": "",
+		"limit": ""
+	},
+	"searchRoleAll": {
+		"obs_id": "",
+		"keywords": "",
+		"page": "",
+		"limit": ""
+	}
+
+
+}

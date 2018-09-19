@@ -1,0 +1,28 @@
+{
+	"voidAll": {
+		"staff_id": "",
+		"language_id": "",
+		"language_name": "",
+		"grade": "",
+		"exam_type": "",
+		"fraction": ""
+	},
+	"createLang1": {
+		"staff_id": "1",
+		"language_id": "",
+		"language_name": "中文",
+		"grade": "1级",
+		"exam_type": "自考",
+		"fraction": "100"
+	},
+	"editLang1to2": {
+		"staff_id": "1",
+		"language_id": "",
+		"language_name": "英文",
+		"grade": "2级",
+		"exam_type": "他考",
+		"fraction": "200"
+	}
+
+
+}

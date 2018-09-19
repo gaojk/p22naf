@@ -1,0 +1,13 @@
+{
+	"voidAll": {
+		"user_id": "",
+		"user_role": "",
+		"user_company": ""
+	},
+	"editUser1": {
+		"user_id": "1",
+		"user_role": "",
+		"user_company": ""
+	}
+
+}

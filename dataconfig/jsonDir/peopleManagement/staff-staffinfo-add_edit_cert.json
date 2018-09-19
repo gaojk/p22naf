@@ -1,0 +1,30 @@
+{
+	"voidAll": {
+		"staff_id": "",
+		"certificate_id": "",
+		"certificate_name": "",
+		"certificate_code": "",
+		"reg_unit": "",
+		"award_unit": "",
+		"gain_time": ""
+	},
+	"createStaffCareer1": {
+		"staff_id": "1",
+		"certificate_id": "",
+		"certificate_name": "测试之神",
+		"certificate_code": "666666",
+		"reg_unit": "google",
+		"award_unit": "facebook",
+		"gain_time": "2011-11-11"
+	},
+	"editStaffCareer1to2": {
+		"staff_id": "1",
+		"certificate_id": "",
+		"certificate_name": "测试之圣",
+		"certificate_code": "777777",
+		"reg_unit": "white house",
+		"award_unit": "FBI",
+		"gain_time": "2012-12-12"
+	}
+
+}

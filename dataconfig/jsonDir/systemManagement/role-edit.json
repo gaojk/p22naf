@@ -1,0 +1,17 @@
+{
+	"voidAll": {
+		"role_id": "",
+		"company_id": "",
+		"role_name": "",
+		"role_note": "",
+		"power_id_arr": ""
+	},
+	"editRole1": {
+		"role_id": "",
+		"company_id": "1",
+		"role_name": "测试角色2",
+		"role_note": "测试角色2 note",
+		"power_id_arr": "[1,2,3]"
+	}
+
+}

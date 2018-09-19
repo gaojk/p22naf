@@ -1,0 +1,27 @@
+{
+	"voidAll": {
+		"page": "",
+		"limit": "",
+		"keywords": "",
+		"work_status": "",
+		"contract_type": "",
+		"contract_status": "",
+		"datesigning_begintime": "",
+		"datesigning_endtime": "",
+		"contract_begintime": "",
+		"contract_endtime": ""
+	},
+	"searchSignContract": {
+		"page": "",
+		"limit": "",
+		"keywords": "",
+		"work_status": "",
+		"contract_type": "",
+		"contract_status": "",
+		"datesigning_begintime": "",
+		"datesigning_endtime": "",
+		"contract_begintime": "",
+		"contract_endtime": ""
+	}
+
+}

@@ -1,0 +1,37 @@
+{
+	"voidAll": {
+		"staff_id": "",
+		"educational_id": "",
+		"start_time": "",
+		"end_time": "",
+		"school_name": "",
+		"educational_type": "",
+		"major_type_id": "",
+		"major_name": "",
+		"education_id": ""
+	},
+	"createEdu1": {
+		"staff_id": "1",
+		"educational_id": "",
+		"start_time": "2011-11-11",
+		"end_time": "",
+		"school_name": "幸福村小学",
+		"educational_type": "1",
+		"major_type_id": "1",
+		"major_name": "佛学",
+		"education_id": "1"
+	},
+	"editEdu1": {
+		"staff_id": "1",
+		"educational_id": "",
+		"start_time": "2011-11-11",
+		"end_time": "",
+		"school_name": "悲剧村小学",
+		"educational_type": "2",
+		"major_type_id": "2",
+		"major_name": "哲学",
+		"education_id": "2"
+	}
+
+
+}

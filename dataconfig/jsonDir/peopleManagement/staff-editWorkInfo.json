@@ -1,0 +1,29 @@
+{
+	"voidAll": {
+		"obs_id": "",
+		"work_number": "",
+		"work_status": "",
+		"work_type": "",
+		"position_id": "",
+		"duties_grade_id": "",
+		"entry_date": "",
+		"probation_period": "",
+		"reporting_object_staff": "",
+		"other_position_id": "",
+		"staff_id": ""
+	},
+	"editStaffWorkInfo1": {
+		"obs_id": "1",
+		"work_number": "0001",
+		"work_status": "1",
+		"work_type": "1",
+		"position_id": "1",
+		"duties_grade_id": "1",
+		"entry_date": "2011-11-11",
+		"probation_period": "3",
+		"reporting_object_staff": "",
+		"other_position_id": "",
+		"staff_id": "17"
+	}
+
+}

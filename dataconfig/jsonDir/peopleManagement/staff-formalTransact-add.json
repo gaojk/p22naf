@@ -1,0 +1,21 @@
+{
+	"voidAll": {
+		"work_number": "",
+		"actual_formal_time": "",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": ""
+	},
+	"transact": {
+		"work_number": "jc0001",
+		"actual_formal_time": "2011-11-12",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": ""
+	}
+
+}

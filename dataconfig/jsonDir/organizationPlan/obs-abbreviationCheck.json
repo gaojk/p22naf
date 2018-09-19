@@ -1,0 +1,18 @@
+{
+	"voidAll": {
+		"parent_id": "",
+		"obs_abbreviation": "",
+		"obs_id": ""
+	},
+	"checkSameName": {
+		"parent_id": "1",
+		"obs_abbreviation": "测简称重名",
+		"obs_id": ""
+	},
+	"checkDiffName": {
+		"parent_id": "1",
+		"obs_abbreviation": "测简称重名1",
+		"obs_id": ""
+	}
+
+}

@@ -1,0 +1,15 @@
+{
+	"voidAll": {
+		"type_id": ""
+	},
+	"getNoticeRule": {
+		"type_id": "1"
+	},
+	"getDingDing": {
+		"type_id": "2"
+	},
+	"getMessage": {
+		"type_id": "3"
+	}
+
+}

@@ -1,0 +1,17 @@
+{
+	"voidAll": {
+		"work_number": "",
+		"password": "",
+		"password_confirm": "",
+		"user_role": "",
+		"user_company": ""
+	},
+	"createUser1": {
+		"work_number": "jcjc99",
+		"password": "123456aa",
+		"password_confirm": "123456aa",
+		"user_role": [1,2,3,4],
+		"user_company": [1,2,3,4]
+	}
+
+}

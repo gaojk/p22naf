@@ -1,0 +1,28 @@
+{
+	"voidAll": {
+		"work_number": "",
+		"phone": "",
+		"verifycode": ""
+	},
+	"wrongWorkNumber": {
+		"work_number": "abcdefg",
+		"phone": "",
+		"verifycode": ""
+	},
+	"wrongPhone": {
+		"work_number": "JC0001",
+		"phone": "123123123",
+		"verifycode": ""
+	},
+	"wrongVerifyCode": {
+		"work_number": "JC0001",
+		"phone": "13294193973",
+		"verifycode": "jfjfjfjfjf"
+	},
+	"下面这条需要输入正确验证码": "",
+	"allRight": {
+		"work_number": "JC0001",
+		"phone": "13294193973",
+		"verifycode": "531571"
+	}
+}

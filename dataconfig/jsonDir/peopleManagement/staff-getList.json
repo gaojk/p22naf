@@ -1,0 +1,43 @@
+{
+	"voidAll": {
+		"page": "",
+		"limit": "",
+		"company_id": "",
+		"keywords": "",
+		"work_status": "",
+		"work_type": "",
+		"education": "",
+		"age": "",
+		"sex": "",
+		"marriage_status": "",
+		"entry_date_min": "",
+		"entry_date_max": "",
+		"dimission_time_min": "",
+		"dimission_time_max": "",
+		"estimate_formal_time_min": "",
+		"estimate_formal_time_max": "",
+		"actual_formal_time_min": "",
+		"actual_formal_time_max": ""
+	},
+	"searchMyPhone": {
+		"page": "",
+		"limit": "",
+		"company_id": "",
+		"keywords": "13294193973",
+		"work_status": "",
+		"work_type": "",
+		"education": "",
+		"age": "",
+		"sex": "",
+		"marriage_status": "",
+		"entry_date_min": "",
+		"entry_date_max": "",
+		"dimission_time_min": "",
+		"dimission_time_max": "",
+		"estimate_formal_time_min": "",
+		"estimate_formal_time_max": "",
+		"actual_formal_time_min": "",
+		"actual_formal_time_max": ""
+	}
+
+}

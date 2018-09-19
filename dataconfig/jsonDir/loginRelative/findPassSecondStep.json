@@ -1,0 +1,38 @@
+{
+	"voidAll": {
+		"new_pass": "",
+		"pass_conf": "",
+		"phone": "",
+		"token": ""
+	},
+	"passwordNotEqual": {
+		"new_pass": "123456ab",
+		"pass_conf": "ba654321",
+		"phone": "13294193973",
+		"token": ""
+	},
+	"wrongPhone": {
+		"new_pass": "123456ab",
+		"pass_conf": "123456ab",
+		"phone": "123123123",
+		"token": ""
+	},
+	"notConsistentPhoneAndWorkNumber": {
+		"new_pass": "123456ab",
+		"pass_conf": "123456ab",
+		"phone": "18171193973",
+		"token": ""
+	},
+	"wrongPasswordFormatNoAlphabet": {
+		"new_pass": "123456",
+		"pass_conf": "123456",
+		"phone": "13294193973",
+		"token": ""
+	},
+	"allRight": {
+		"new_pass": "123456",
+		"pass_conf": "123456",
+		"phone": "13294193973",
+		"token": ""
+	}
+}

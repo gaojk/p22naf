@@ -1,0 +1,14 @@
+{
+	"voidAll": {
+		"obs_ids": "",
+		"status": ""
+	},
+	"forbitStatus": {
+		"obs_ids": "",
+		"status": "2"
+	},
+	"openStatus": {
+		"obs_ids": "",
+		"status": "1"
+	}
+}

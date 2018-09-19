@@ -1,0 +1,23 @@
+{
+	"voidAll": {
+		"work_number": "",
+		"transfer_type": "",
+		"transfer_time": "",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": ""
+	},
+	"createTransfer": {
+		"work_number": "jc0099",
+		"transfer_type": "1",
+		"transfer_time": "2018/11/11",
+		"change_obs_id": "1",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": ""
+	}
+
+}

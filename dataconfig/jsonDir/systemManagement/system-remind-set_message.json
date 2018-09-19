@@ -1,0 +1,13 @@
+{
+	"voidAll": {
+		"message_address": "",
+		"message_account_id": "",
+		"message_account_key": ""
+	},
+	"connectMessage": {
+		"message_address": "1212312",
+		"message_account_id": "3123123",
+		"message_account_key": "123123123"
+	}
+
+}

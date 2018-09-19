@@ -1,0 +1,23 @@
+{
+	"voidAll": {
+		"keywords": "",
+		"company_id": "",
+		"entrydata": "",
+		"work_status": "",
+		"begin_time": "",
+		"end_time": "",
+		"limit": "",
+		"page": ""
+	},
+	"searchStaff1": {
+		"keywords": "jc0001",
+		"company_id": "",
+		"entrydata": "",
+		"work_status": "",
+		"begin_time": "",
+		"end_time": "",
+		"limit": "",
+		"page": ""
+	}
+
+}

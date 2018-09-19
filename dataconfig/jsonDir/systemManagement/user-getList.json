@@ -1,0 +1,17 @@
+{
+	"voidAll": {
+		"obs_id": "",
+		"keywords": "",
+		"work_status": "",
+		"page": "",
+		"limit": ""
+	},
+	"getUser1": {
+		"obs_id": "1",
+		"keywords": "",
+		"work_status": "",
+		"page": "",
+		"limit": ""
+	}
+
+}

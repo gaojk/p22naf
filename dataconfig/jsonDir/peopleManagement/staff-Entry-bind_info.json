@@ -1,0 +1,13 @@
+{
+	"voidAll": {
+		"staff_id": "",
+		"info[0][entrydata_type_id]": "",
+		"info[0][upload_file_url]": ""
+	},
+	"editEntryInfo": {
+		"staff_id": "1",
+		"info[0][entrydata_type_id]": "2",
+		"info[0][upload_file_url]": "123123"
+	}
+
+}

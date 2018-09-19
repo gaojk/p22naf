@@ -1,0 +1,11 @@
+{
+	"voidAll": {
+		"phone": "",
+		"verifycode": ""
+	},
+	"verifyPhone": {
+		"phone": "13294193973",
+		"在verifycode输入正确验证码继续测试": "",
+		"verifycode": "123456"
+	}
+}

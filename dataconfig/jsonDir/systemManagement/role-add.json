@@ -1,0 +1,14 @@
+{
+	"voidAll": {
+		"role_name": "",
+		"company_id": "",
+		"role_note": "",
+		"power_id_arr": ""
+	},
+	"createRole1": {
+		"role_name": "测试角色1",
+		"company_id": "1",
+		"role_note": "测试角色1 note",
+		"power_id_arr": "[1,2,3]"
+	}
+}

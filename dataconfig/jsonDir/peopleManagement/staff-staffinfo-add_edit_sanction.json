@@ -1,0 +1,30 @@
+{
+	"voidAll": {
+		"staff_id": "",
+		"sanction_id": "",
+		"sanction_time": "",
+		"sanction_type": "",
+		"sanction_way": "",
+		"sanction_why": "",
+		"note": ""
+	},
+	"createStaffAward": {
+		"staff_id": "1",
+		"sanction_id": "",
+		"sanction_time": "2011-11-11",
+		"sanction_type": 1,
+		"sanction_way": "airplane",
+		"sanction_why": "for brother",
+		"note": "test create award"
+	},
+	"editStaffAward": {
+		"staff_id": "1",
+		"sanction_id": "",
+		"sanction_time": "2012-12-12",
+		"sanction_type": 2,
+		"sanction_way": "ship",
+		"sanction_why": "for family",
+		"note": "test edit award"
+	}
+
+}

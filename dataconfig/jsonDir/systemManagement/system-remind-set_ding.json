@@ -1,0 +1,12 @@
+{
+	"voidAll": {
+		"ding_address": "",
+		"ding_corpid": "",
+		"ding_corpsecret": ""
+	},
+	"connectDingDing": {
+		"ding_address": "https://oapi.dingtalk.com",
+		"ding_corpid": "dinga83d6fc27897656535c2f4657eb6378f",
+		"ding_corpsecret": "HL8wO_OlKJy4XRq7BzBjtUQdlv307lykAt89mFxBYfKjRedDpzZTW9fm4IOCy5vJ"
+	}
+}

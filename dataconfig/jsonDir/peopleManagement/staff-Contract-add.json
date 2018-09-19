@@ -1,0 +1,35 @@
+{
+	"voidAll": {
+		"staff_id": "",
+		"contract_type": "",
+		"contract_number": "",
+		"contract_company": "",
+		"date_signing": "",
+		"contract_start_time": "",
+		"contract_end_time": "",
+		"note": "",
+		"staff_contract_id": ""
+	},
+	"createContract": {
+		"staff_id": "1",
+		"contract_type": "1",
+		"contract_number": "1111",
+		"contract_company": 1,
+		"date_signing": "2011-11-11",
+		"contract_start_time": "2011-11-11",
+		"contract_end_time": "2011-11-11",
+		"note": "test contract create",
+		"staff_contract_id": ""
+	},
+	"editContract": {
+		"staff_id": "1",
+		"contract_type": "2",
+		"contract_number": "2222",
+		"contract_company": 2,
+		"date_signing": "2012-12-12",
+		"contract_start_time": "2012-12-12",
+		"contract_end_time": "2012-12-12",
+		"note": "test contract edit",
+		"staff_contract_id": ""
+	}
+}

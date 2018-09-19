@@ -1,0 +1,25 @@
+{
+	"voidAll": {
+		"obs_id": "",
+		"keywords": "",
+		"limit": "",
+		"status": "",
+		"work_status": "",
+		"entry_start_data": "",
+		"entry_end_data": "",
+		"formal_transact_start_data": "",
+		"formal_transact_end_data": ""
+	},
+	"searchStaff1": {
+		"obs_id": "",
+		"keywords": "test1",
+		"limit": "",
+		"status": "",
+		"work_status": "",
+		"entry_start_data": "",
+		"entry_end_data": "",
+		"formal_transact_start_data": "",
+		"formal_transact_end_data": ""
+	}
+
+}

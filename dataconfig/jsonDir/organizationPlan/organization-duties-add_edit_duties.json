@@ -1,0 +1,91 @@
+{
+	"voidAll": {
+		"duties_name": "",
+		"duties_type_id": "",
+		"grade_down": "",
+		"grade_up": "",
+		"note": "",
+		"duties_id": ""
+	},
+	"void_id": {
+		"duties_name": "jetype",
+		"duties_type_id": "",
+		"grade_down": "",
+		"grade_up": "",
+		"note": "",
+		"duties_id": ""
+	},
+	"voidGrade_down": {
+		"duties_name": "jetype",
+		"duties_type_id": "99",
+		"grade_down": "",
+		"grade_up": "",
+		"note": "",
+		"duties_id": ""
+	},
+	"voidGrade_up": {
+		"duties_name": "jetype",
+		"duties_type_id": "99",
+		"grade_down": "5",
+		"grade_up": "",
+		"note": "",
+		"duties_id": ""
+	},
+	"voidNote": {
+		"duties_name": "jetype",
+		"duties_type_id": "99",
+		"grade_down": "5",
+		"grade_up": "15",
+		"note": "",
+		"duties_id": ""
+	},
+	"voidDuties_id": {
+		"duties_name": "jetype",
+		"duties_type_id": "99",
+		"grade_down": "5",
+		"grade_up": "15",
+		"note": "test note",
+		"duties_id": ""
+	},
+	"gradeDownBigThanUp": {
+		"duties_name": "jetype",
+		"duties_type_id": "10",
+		"grade_down": "5",
+		"grade_up": "15",
+		"note": "test note",
+		"duties_id": ""
+	},
+	"createZhiwu1": {
+		"duties_name": "zhiw1",
+		"duties_type_id": "10",
+		"grade_down": "5",
+		"grade_up": "15",
+		"note": "test note1",
+		"duties_id": ""
+	},
+	"createZhiwu2": {
+		"duties_name": "zhiw2",
+		"duties_type_id": "10",
+		"grade_down": "5",
+		"grade_up": "15",
+		"note": "test note2",
+		"duties_id": ""
+	},
+	"createZhiwu3": {
+		"duties_name": "zhiw3",
+		"duties_type_id": "10",
+		"grade_down": "5",
+		"grade_up": "15",
+		"note": "test note3",
+		"duties_id": ""
+	},
+	"editZhiwu1to4": {
+		"duties_name": "zhiw4",
+		"duties_type_id": "10",
+		"grade_down": "6",
+		"grade_up": "16",
+		"note": "test note4",
+		"duties_id": ""
+	}
+
+}

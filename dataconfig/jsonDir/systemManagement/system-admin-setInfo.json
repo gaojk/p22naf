@@ -1,0 +1,11 @@
+{
+	"voidAll": {
+		"company_name": "",
+		"work_number_prefix": ""
+	},
+	"setNameAndPrefix": {
+		"company_name": "武汉精臣智慧标识有限公司",
+		"work_number_prefix": "JC"
+	}
+
+}

@@ -1,0 +1,13 @@
+{
+	"voidAll": {
+		"user_id": "",
+		"password": "",
+		"password_confirm": ""
+	},
+	"changePass": {
+		"user_id": "1",
+		"password": "123456",
+		"password_confirm": "123456"
+	}
+
+}
