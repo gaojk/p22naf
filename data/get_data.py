@@ -1,6 +1,6 @@
 #coding:utf-8
 from util.operation_excel import OperationExcel
-from . import data_config
+from data import data_config
 from util.operation_json import OperetionJson
 from util.connect_db import OperationMysql
 class GetData:
