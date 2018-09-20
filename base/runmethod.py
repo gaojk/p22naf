@@ -105,7 +105,7 @@ if __name__ == '__main__':
 	error500TestData = {"": ""}
 
 	testUpload = "http://oa.jc-saas.com.cn/attendance/daily/import"
-	testUploadData = {"files": open(r"D:\代码夹子\testScript\OA_API_TEST\api_oa_unittest_python3\p22naf\main\33333.txt", "rb")}
+
 
 	checkRedundantName = "http://oa.jc-saas.com.cn/obs/nameCheck"
 	checkRedundantNameData = {"parent_id": "1", "obs_name": "软件部", "obs_id": ""}
