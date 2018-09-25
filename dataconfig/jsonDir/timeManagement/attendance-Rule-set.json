@@ -1,0 +1,30 @@
+{
+	"voidAll": {
+		"common_late_minute": "",
+		"serious_late_minute": "",
+		"common_early_minute": "",
+		"serious_early_minute": "",
+		"common_absenteeism_minute": "",
+		"common_absenteeism_day": "",
+		"serious_absenteeism_minute": "",
+		"serious_absenteeism_day": "",
+		"lack_card_set": "",
+		"allow_card": "",
+		"calculation_method": "",
+		"hour": ""
+	},
+	"setAttendanceRule": {
+		"common_late_minute": "1",
+		"serious_late_minute": "2",
+		"common_early_minute": "3",
+		"serious_early_minute": "4",
+		"common_absenteeism_minute": "11",
+		"common_absenteeism_day": "1",
+		"serious_absenteeism_minute": "22",
+		"serious_absenteeism_day": "2",
+		"lack_card_set": "1",
+		"allow_card": "5",
+		"calculation_method": "1",
+		"hour": "8"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"voidAll": {
+		"page": "",
+		"limit": "",
+		"keywords": "",
+		"pay_type": "",
+		"subject_type": "",
+		"operate_type": "",
+		"isno_tax": ""
+	},
+	"": {
+		"page": "",
+		"limit": "",
+		"keywords": "",
+		"pay_type": "",
+		"subject_type": "",
+		"operate_type": "",
+		"isno_tax": ""
+	},
+}

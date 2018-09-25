@@ -1,0 +1,14 @@
+{
+	"voidAll": {
+		"keywords": "",
+		"category_id": "",
+		"page": "",
+		"limit": ""
+	},
+	"searchCategory": {
+		"keywords": "",
+		"category_id": "1",
+		"page": "",
+		"limit": ""
+	}
+}

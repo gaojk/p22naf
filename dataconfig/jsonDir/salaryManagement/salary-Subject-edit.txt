@@ -1,0 +1,5 @@
+subject_id
+isno_tax
+note
+subject_name
+pay_type

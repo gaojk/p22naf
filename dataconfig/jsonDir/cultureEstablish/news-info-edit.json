@@ -1,0 +1,22 @@
+{
+	"voidAll": {
+		"category_id": "",
+		"title": "",
+		"abstract": "",
+		"show_sort": "",
+		"status": "",
+		"content": "",
+		"info_id": "",
+		"rules_type": ""
+	},
+	"editNewsInfo": {
+		"category_id": "1",
+		"title": "增加企业公告edit",
+		"abstract": "增加企业公告edit摘要",
+		"show_sort": "",
+		"status": "1",
+		"content": "增加企业公告edit内容增加企业公告edit内容增加企业公告edit内容增加企业公告edit内容",
+		"info_id": "",
+		"rules_type": ""
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"voidAll": {
+		"category_id": "",
+		"title": "",
+		"abstract": "",
+		"show_sort": "",
+		"status": "",
+		"content": "",
+		"rules_type": ""
+	},
+	"addNewsInfo": {
+		"category_id": "1",
+		"title": "增加企业公告",
+		"abstract": "增加企业公告摘要",
+		"show_sort": "",
+		"status": "1",
+		"content": "增加企业公告内容增加企业公告内容增加企业公告内容增加企业公告内容增加企业公告内容",
+		"rules_type": ""
+	}
+}

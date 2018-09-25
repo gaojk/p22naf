@@ -1,0 +1,27 @@
+{
+	"voidAll": {
+		"ws_name": "",
+		"front_begin": "",
+		"front_end": "",
+		"behind_begin": "",
+		"behind_end": "",
+		"ws_id": ""
+	},
+	"createWorkingShift": {
+		"ws_name": "test班",
+		"front_begin": "11:11",
+		"front_end": "11:12",
+		"behind_begin": "13:11",
+		"behind_end": "15:11",
+		"ws_id": ""
+	},
+	"editWorkingShift": {
+		"ws_name": "test班edit",
+		"front_begin": "22:22",
+		"front_end": "22:23",
+		"behind_begin": "23:11",
+		"behind_end": "23:55",
+		"ws_id": ""
+	}
+
+}

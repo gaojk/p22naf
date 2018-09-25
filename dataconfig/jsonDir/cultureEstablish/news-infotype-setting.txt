@@ -1,0 +1,4 @@
+type[0][type_name]
+type[0][type_id]
+type[1][type_name]
+type[1][type_id]

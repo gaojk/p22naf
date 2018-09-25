@@ -1,0 +1,3 @@
+salary_cycle
+company_id
+sc_id

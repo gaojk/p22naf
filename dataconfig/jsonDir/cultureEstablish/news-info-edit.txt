@@ -1,0 +1,8 @@
+category_id
+title
+abstract
+show_sort
+status
+content
+info_id
+rules_type

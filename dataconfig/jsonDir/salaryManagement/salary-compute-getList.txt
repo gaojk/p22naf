@@ -1,0 +1,7 @@
+obs_id
+keywords
+status
+limit
+work_number
+work_status
+salary_cycle

@@ -1,0 +1,24 @@
+{
+	"voidAll": {
+		"page": "",
+		"limit": "",
+		"company_id": "",
+		"keywords": "",
+		"work_number": "",
+		"work_status": "",
+		"attendance_date": "",
+		"sort_field": "",
+		"sort_by": ""
+	},
+	"searchMonthReport": {
+		"page": "",
+		"limit": "",
+		"company_id": "",
+		"keywords": "曾凡华",
+		"work_number": "",
+		"work_status": "",
+		"attendance_date": "",
+		"sort_field": "",
+		"sort_by": ""
+	}
+}

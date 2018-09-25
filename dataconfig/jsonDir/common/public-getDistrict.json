@@ -1,0 +1,19 @@
+{
+	"voidAll": {
+		"action": "",
+		"id": ""
+	},
+	"getProvince": {
+		"action": "province",
+		"id": ""
+	},
+	"getCity": {
+		"action": "",
+		"id": ""
+	},
+	"getArea": {
+		"action": "",
+		"id": ""
+	}
+
+}
