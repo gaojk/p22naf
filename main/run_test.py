@@ -68,7 +68,8 @@ class RunTest:
 					if depend_case_sql != None:
 						#获取的sql查询依赖数据
 						depend_sql_results = self.data.get_one_sql_data(i, self.data.get_sql_rely_result_data)
-						#如果depend_sql_results的值为null说明这段sql语句没有查询出结果，比如我在做某个用户新增之前我需要先删除，但是如果该用户根本都没有的话，那么就删除不了，这时候就需要这里的if来判断
+						#如果depend_sql_results的值为null说明这段sql语句没有查询出结果，比如我在做某个用户新增之前我需要先删除，
+						#但是如果该用户根本都没有的话，那么就删除不了，这时候就需要这里的if来判断
 						if depend_sql_results != "null":
 							#把unicode格式的字典改为json格式
 							depend_sql_results = json.loads(depend_sql_results)

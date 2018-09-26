@@ -15,7 +15,7 @@
 		"A25": "",
 		"A26": ""
 	},
-	"": {
+	"createAdjustedSalary": {
 		"work_numbers": "",
 		"change_salary_time": "",
 		"note": "",
@@ -30,5 +30,5 @@
 		"A24": "",
 		"A25": "",
 		"A26": ""
-	},
+	}
 }

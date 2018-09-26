@@ -6,11 +6,19 @@
 		"limit": "",
 		"page": ""
 	},
-	"": {
+	"aleardySalaryFixed": {
 		"keywords": "",
-		"is_salary": "",
+		"is_salary": "1",
 		"company_id": "",
 		"limit": "",
 		"page": ""
 	},
+	"notAleardySalaryFixed": {
+		"keywords": "",
+		"is_salary": "2",
+		"company_id": "",
+		"limit": "",
+		"page": ""
+	}
+
 }

@@ -2,7 +2,7 @@
 	"voidAll": {
 		"subject_id": ""
 	},
-	"": {
-		"subject_id": ""
-	},
+	"searchOneSalarySubject": {
+		"subject_id": "17"
+	}
 }

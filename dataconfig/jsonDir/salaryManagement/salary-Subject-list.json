@@ -8,13 +8,13 @@
 		"operate_type": "",
 		"isno_tax": ""
 	},
-	"": {
+	"searchFloatSubject": {
 		"page": "",
 		"limit": "",
 		"keywords": "",
 		"pay_type": "",
-		"subject_type": "",
+		"subject_type": "2",
 		"operate_type": "",
 		"isno_tax": ""
-	},
+	}
 }

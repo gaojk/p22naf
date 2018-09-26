@@ -2,7 +2,7 @@
 	"voidAll": {
 		"free_quota": ""
 	},
-	"": {
-		"free_quota": ""
-	},
+	"setPersonalTax": {
+		"free_quota": "9999999"
+	}
 }

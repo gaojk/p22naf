@@ -1,3 +1,7 @@
-2018-09-19 14:26:11.228457
-504
-http://oa.jc-saas.com.cn/obs/dingSynchro
+
+2018-09-25 17:23:05.612693
+500
+http://oa.jc-saas.com.cn/attendance/daily/import
+2018-09-25 17:23:06.704694
+500
+http://oa.jc-saas.com.cn/attendance/monthly/export

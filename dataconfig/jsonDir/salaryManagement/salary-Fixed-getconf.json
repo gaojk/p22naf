@@ -2,7 +2,7 @@
 	"voidAll": {
 		"is_fixed": ""
 	},
-	"": {
-		"is_fixed": ""
-	},
+	"searchFixSalaryDetail": {
+		"is_fixed": "1"
+	}
 }

@@ -7,12 +7,21 @@
 		"limit": "",
 		"page": ""
 	},
-	"": {
-		"is_entry": "",
+	"bankCardIsEntry": {
+		"is_entry": "1",
 		"company_id": "",
 		"keywords": "",
 		"work_status": "",
 		"limit": "",
 		"page": ""
 	},
+	"bankCardNotEntry": {
+		"is_entry": "2",
+		"company_id": "",
+		"keywords": "",
+		"work_status": "",
+		"limit": "",
+		"page": ""
+	}
+
 }

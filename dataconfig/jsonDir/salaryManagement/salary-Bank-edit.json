@@ -5,10 +5,17 @@
 		"subbranch_name": "",
 		"bank_code": ""
 	},
-	"": {
-		"staff_id": "",
-		"bank_id": "",
-		"subbranch_name": "",
-		"bank_code": ""
+	"createBankCard": {
+		"staff_id": "37",
+		"bank_id": "2",
+		"subbranch_name": "测试银行新增",
+		"bank_code": "2222222222"
 	},
+	"editBankCard": {
+		"staff_id": "37",
+		"bank_id": "8",
+		"subbranch_name": "测试银行编辑",
+		"bank_code": "8888888888"
+	}
+
 }
