@@ -14,6 +14,49 @@
 		"dimission_type": "",
 		"dimission_time_start": "",
 		"dimission_time_end": ""
+	},
+	"checkParams1": {
+		"keywords": "曾凡华",
+		"limit": "",
+		"dimission_type": "",
+		"dimission_time_start": "",
+		"dimission_time_end": ""
+	},
+	"checkParams2": {
+		"obs_id": "",
+		"limit": "",
+		"dimission_type": "",
+		"dimission_time_start": "",
+		"dimission_time_end": ""
+	},
+	"checkParams3": {
+		"obs_id": "",
+		"keywords": "曾凡华",
+		"dimission_type": "",
+		"dimission_time_start": "",
+		"dimission_time_end": ""
+	},
+	"checkParams4": {
+		"obs_id": "",
+		"keywords": "曾凡华",
+		"limit": "",
+		"dimission_time_start": "",
+		"dimission_time_end": ""
+	},
+	"checkParams5": {
+		"obs_id": "",
+		"keywords": "曾凡华",
+		"limit": "",
+		"dimission_type": "",
+		"dimission_time_end": ""
+	},
+	"checkParams6": {
+		"obs_id": "",
+		"keywords": "曾凡华",
+		"limit": "",
+		"dimission_type": "",
+		"dimission_time_start": ""
 	}
+
 
 }

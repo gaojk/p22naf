@@ -16,6 +16,63 @@
 		"change_position_id": "",
 		"change_other_position_id": "",
 		"note": "test edit Transcat"
+	},
+	"checkParams1": {
+		"actual_formal_time": "2011/11/11",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": "test edit Transcat"
+	},
+	"checkParams2": {
+		"formal_transact_id": "",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": "test edit Transcat"
+	},
+	"checkParams3": {
+		"formal_transact_id": "",
+		"actual_formal_time": "2011/11/11",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": "test edit Transcat"
+	},
+	"checkParams4": {
+		"formal_transact_id": "",
+		"actual_formal_time": "2011/11/11",
+		"change_obs_id": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": "test edit Transcat"
+	},
+	"checkParams5": {
+		"formal_transact_id": "",
+		"actual_formal_time": "2011/11/11",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_other_position_id": "",
+		"note": "test edit Transcat"
+	},
+	"checkParams6": {
+		"formal_transact_id": "",
+		"actual_formal_time": "2011/11/11",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"note": "test edit Transcat"
+	},
+	"checkParams7": {
+		"formal_transact_id": "",
+		"actual_formal_time": "2011/11/11",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": ""
 	}
+
 
 }

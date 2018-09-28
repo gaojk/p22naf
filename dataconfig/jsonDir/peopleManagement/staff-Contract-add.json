@@ -31,5 +31,96 @@
 		"contract_end_time": "2012-12-12",
 		"note": "test contract edit",
 		"staff_contract_id": ""
+	},
+	"checkParams1": {
+		"contract_type": "2",
+		"contract_number": "2222",
+		"contract_company": 2,
+		"date_signing": "2012-12-12",
+		"contract_start_time": "2012-12-12",
+		"contract_end_time": "2012-12-12",
+		"note": "test contract edit",
+		"staff_contract_id": ""
+	},
+	"checkParams2": {
+		"staff_id": "1",
+		"contract_number": "2222",
+		"contract_company": 2,
+		"date_signing": "2012-12-12",
+		"contract_start_time": "2012-12-12",
+		"contract_end_time": "2012-12-12",
+		"note": "test contract edit",
+		"staff_contract_id": ""
+	},
+	"checkParams3": {
+		"staff_id": "1",
+		"contract_type": "2",
+		"contract_company": 2,
+		"date_signing": "2012-12-12",
+		"contract_start_time": "2012-12-12",
+		"contract_end_time": "2012-12-12",
+		"note": "test contract edit",
+		"staff_contract_id": ""
+	},
+	"checkParams4": {
+		"staff_id": "1",
+		"contract_type": "2",
+		"contract_number": "2222",
+		"date_signing": "2012-12-12",
+		"contract_start_time": "2012-12-12",
+		"contract_end_time": "2012-12-12",
+		"note": "test contract edit",
+		"staff_contract_id": ""
+	},
+	"checkParams5": {
+		"staff_id": "1",
+		"contract_type": "2",
+		"contract_number": "2222",
+		"contract_company": 2,
+		"contract_start_time": "2012-12-12",
+		"contract_end_time": "2012-12-12",
+		"note": "test contract edit",
+		"staff_contract_id": ""
+	},
+	"checkParams6": {
+		"staff_id": "1",
+		"contract_type": "2",
+		"contract_number": "2222",
+		"contract_company": 2,
+		"date_signing": "2012-12-12",
+		"contract_end_time": "2012-12-12",
+		"note": "test contract edit",
+		"staff_contract_id": ""
+	},
+	"checkParams7": {
+		"staff_id": "1",
+		"contract_type": "2",
+		"contract_number": "2222",
+		"contract_company": 2,
+		"date_signing": "2012-12-12",
+		"contract_start_time": "2012-12-12",
+		"note": "test contract edit",
+		"staff_contract_id": ""
+	},
+	"checkParams8": {
+		"staff_id": "1",
+		"contract_type": "2",
+		"contract_number": "2222",
+		"contract_company": 2,
+		"date_signing": "2012-12-12",
+		"contract_start_time": "2012-12-12",
+		"contract_end_time": "2012-12-12",
+		"staff_contract_id": ""
+	},
+	"checkParams9": {
+		"staff_id": "1",
+		"contract_type": "2",
+		"contract_number": "2222",
+		"contract_company": 2,
+		"date_signing": "2012-12-12",
+		"contract_start_time": "2012-12-12",
+		"contract_end_time": "2012-12-12",
+		"note": "test contract edit"
 	}
+
 }

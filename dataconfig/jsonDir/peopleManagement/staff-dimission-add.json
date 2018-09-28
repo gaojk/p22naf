@@ -20,6 +20,97 @@
 		"handover_work_number": "JC0002",
 		"dimission_why": "aaaaaa",
 		"questionnaire": "[1,2,3]"
+	},
+	"checkParams1": {
+		"dimission_type": "1",
+		"dimission_time": "2018/09/30",
+		"salary_stop_time": "2018/09/30",
+		"gjj_stop_time": "2018/09/30",
+		"shebao_stop_time": "2018/09/30",
+		"handover_work_number": "JC0002",
+		"dimission_why": "aaaaaa",
+		"questionnaire": "[1,2,3]"
+	},
+	"checkParams2": {
+		"work_number": "JC0002",
+		"dimission_time": "2018/09/30",
+		"salary_stop_time": "2018/09/30",
+		"gjj_stop_time": "2018/09/30",
+		"shebao_stop_time": "2018/09/30",
+		"handover_work_number": "JC0002",
+		"dimission_why": "aaaaaa",
+		"questionnaire": "[1,2,3]"
+	},
+	"checkParams3": {
+		"work_number": "JC0002",
+		"dimission_type": "1",
+		"salary_stop_time": "2018/09/30",
+		"gjj_stop_time": "2018/09/30",
+		"shebao_stop_time": "2018/09/30",
+		"handover_work_number": "JC0002",
+		"dimission_why": "aaaaaa",
+		"questionnaire": "[1,2,3]"
+	},
+	"checkParams4": {
+		"work_number": "JC0002",
+		"dimission_type": "1",
+		"dimission_time": "2018/09/30",
+		"gjj_stop_time": "2018/09/30",
+		"shebao_stop_time": "2018/09/30",
+		"handover_work_number": "JC0002",
+		"dimission_why": "aaaaaa",
+		"questionnaire": "[1,2,3]"
+	},
+	"checkParams5": {
+		"work_number": "JC0002",
+		"dimission_type": "1",
+		"dimission_time": "2018/09/30",
+		"salary_stop_time": "2018/09/30",
+		"shebao_stop_time": "2018/09/30",
+		"handover_work_number": "JC0002",
+		"dimission_why": "aaaaaa",
+		"questionnaire": "[1,2,3]"
+	},
+	"checkParams6": {
+		"work_number": "JC0002",
+		"dimission_type": "1",
+		"dimission_time": "2018/09/30",
+		"salary_stop_time": "2018/09/30",
+		"gjj_stop_time": "2018/09/30",
+		"handover_work_number": "JC0002",
+		"dimission_why": "aaaaaa",
+		"questionnaire": "[1,2,3]"
+	},
+	"checkParams7": {
+		"work_number": "JC0002",
+		"dimission_type": "1",
+		"dimission_time": "2018/09/30",
+		"salary_stop_time": "2018/09/30",
+		"gjj_stop_time": "2018/09/30",
+		"shebao_stop_time": "2018/09/30",
+		"dimission_why": "aaaaaa",
+		"questionnaire": "[1,2,3]"
+	},
+	"checkParams8": {
+		"work_number": "JC0002",
+		"dimission_type": "1",
+		"dimission_time": "2018/09/30",
+		"salary_stop_time": "2018/09/30",
+		"gjj_stop_time": "2018/09/30",
+		"shebao_stop_time": "2018/09/30",
+		"handover_work_number": "JC0002",
+		"questionnaire": "[1,2,3]"
+	},
+	"checkParams9": {
+		"work_number": "JC0002",
+		"dimission_type": "1",
+		"dimission_time": "2018/09/30",
+		"salary_stop_time": "2018/09/30",
+		"gjj_stop_time": "2018/09/30",
+		"shebao_stop_time": "2018/09/30",
+		"handover_work_number": "JC0002",
+		"dimission_why": "aaaaaa"
 	}
+
 
 }

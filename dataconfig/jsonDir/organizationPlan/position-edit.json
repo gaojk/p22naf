@@ -16,5 +16,62 @@
 		"plan_staff_num": "888",
 		"note": "position2test",
 		"position_id": ""
+	},
+	"checkParams1": {
+		"position_code": "88888",
+		"obs_id": "1",
+		"duties_id": "5",
+		"plan_staff_num": "888",
+		"note": "position2test",
+		"position_id": ""
+	},
+	"checkParams2": {
+		"position_name": "position2",
+		"obs_id": "1",
+		"duties_id": "5",
+		"plan_staff_num": "888",
+		"note": "position2test",
+		"position_id": ""
+	},
+	"checkParams3": {
+		"position_name": "position2",
+		"position_code": "88888",
+		"duties_id": "5",
+		"plan_staff_num": "888",
+		"note": "position2test",
+		"position_id": ""
+	},
+	"checkParams4": {
+		"position_name": "position2",
+		"position_code": "88888",
+		"obs_id": "1",
+		"plan_staff_num": "888",
+		"note": "position2test",
+		"position_id": ""
+	},
+	"checkParams5": {
+		"position_name": "position2",
+		"position_code": "88888",
+		"obs_id": "1",
+		"duties_id": "5",
+		"note": "position2test",
+		"position_id": ""
+	},
+	"checkParams6": {
+		"position_name": "position2",
+		"position_code": "88888",
+		"obs_id": "1",
+		"duties_id": "5",
+		"plan_staff_num": "888",
+		"position_id": ""
+	},
+	"checkParams7": {
+		"position_name": "position2",
+		"position_code": "88888",
+		"obs_id": "1",
+		"duties_id": "5",
+		"plan_staff_num": "888",
+		"note": "position2test"
 	}
+
 }

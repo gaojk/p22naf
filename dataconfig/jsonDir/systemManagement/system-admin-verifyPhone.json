@@ -7,5 +7,18 @@
 		"phone": "13294193973",
 		"在verifycode输入正确验证码继续测试": "",
 		"verifycode": "123456"
+	},
+	"checkParams1": {
+		"在verifycode输入正确验证码继续测试": "",
+		"verifycode": "123456"
+	},
+	"checkParams2": {
+		"phone": "13294193973",
+		"verifycode": "123456"
+	},
+	"checkParams3": {
+		"phone": "13294193973",
+		"在verifycode输入正确验证码继续测试": ""
 	}
+
 }

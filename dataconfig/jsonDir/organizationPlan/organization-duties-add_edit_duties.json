@@ -86,6 +86,49 @@
 		"grade_up": "16",
 		"note": "test note4",
 		"duties_id": ""
+	},
+	"checkParams1": {
+		"duties_type_id": "10",
+		"grade_down": "6",
+		"grade_up": "16",
+		"note": "test note4",
+		"duties_id": ""
+	},
+	"checkParams2": {
+		"duties_name": "zhiw4",
+		"grade_down": "6",
+		"grade_up": "16",
+		"note": "test note4",
+		"duties_id": ""
+	},
+	"checkParams3": {
+		"duties_name": "zhiw4",
+		"duties_type_id": "10",
+		"grade_up": "16",
+		"note": "test note4",
+		"duties_id": ""
+	},
+	"checkParams4": {
+		"duties_name": "zhiw4",
+		"duties_type_id": "10",
+		"grade_down": "6",
+		"note": "test note4",
+		"duties_id": ""
+	},
+	"checkParams5": {
+		"duties_name": "zhiw4",
+		"duties_type_id": "10",
+		"grade_down": "6",
+		"grade_up": "16",
+		"duties_id": ""
+	},
+	"checkParams6": {
+		"duties_name": "zhiw4",
+		"duties_type_id": "10",
+		"grade_down": "6",
+		"grade_up": "16",
+		"note": "test note4"
 	}
+
 
 }

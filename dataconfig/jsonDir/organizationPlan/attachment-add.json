@@ -5,5 +5,36 @@
 		"attach[0][attachment_name]": "",
 		"attach[0][attachment_size]": "",
 		"attach[0][attachment_url]": ""
+	},
+	"checkParams1": {
+		"relation_id": "",
+		"attach[0][attachment_name]": "",
+		"attach[0][attachment_size]": "",
+		"attach[0][attachment_url]": ""
+	},
+	"checkParams2": {
+		"attachment_type": "",
+		"attach[0][attachment_name]": "",
+		"attach[0][attachment_size]": "",
+		"attach[0][attachment_url]": ""
+	},
+	"checkParams3": {
+		"attachment_type": "",
+		"relation_id": "",
+		"attach[0][attachment_size]": "",
+		"attach[0][attachment_url]": ""
+	},
+	"checkParams4": {
+		"attachment_type": "",
+		"relation_id": "",
+		"attach[0][attachment_name]": "",
+		"attach[0][attachment_url]": ""
+	},
+	"checkParams5": {
+		"attachment_type": "",
+		"relation_id": "",
+		"attach[0][attachment_name]": "",
+		"attach[0][attachment_size]": ""
 	}
+
 }

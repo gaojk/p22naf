@@ -10,7 +10,14 @@
 	"editInfo1": {
 		"data_name": "测试证书2",
 		"entrydata_type_id": ""
+	},
+	"checkParams1": {
+		"entrydata_type_id": ""
+	},
+	"checkParams2": {
+		"data_name": "测试证书2"
 	}
+
 
 
 }

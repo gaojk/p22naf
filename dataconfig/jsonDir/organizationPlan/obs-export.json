@@ -4,5 +4,26 @@
 		"obs_ids": "",
 		"keywords": "",
 		"status": ""
+	},
+	"checkParams1": {
+		"obs_ids": "",
+		"keywords": "",
+		"status": ""
+	},
+	"checkParams2": {
+		"obs_id": "",
+		"keywords": "",
+		"status": ""
+	},
+	"checkParams3": {
+		"obs_id": "",
+		"obs_ids": "",
+		"status": ""
+	},
+	"checkParams4": {
+		"obs_id": "",
+		"obs_ids": "",
+		"keywords": ""
 	}
+
 }

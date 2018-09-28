@@ -8,5 +8,18 @@
 		"position_id": "1",
 		"page": "",
 		"limit": ""
+	},
+	"checkParams1": {
+		"page": "",
+		"limit": ""
+	},
+	"checkParams2": {
+		"position_id": "1",
+		"limit": ""
+	},
+	"checkParams3": {
+		"position_id": "1",
+		"page": ""
 	}
+
 }

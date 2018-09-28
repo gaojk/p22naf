@@ -6,6 +6,11 @@
 	"setNameAndPrefix": {
 		"company_name": "武汉精臣智慧标识有限公司",
 		"work_number_prefix": "JC"
+	},
+	"checkParams1": {
+		"work_number_prefix": "JC"
+	},
+	"checkParams2": {
+		"company_name": "武汉精臣智慧标识有限公司"
 	}
-
 }

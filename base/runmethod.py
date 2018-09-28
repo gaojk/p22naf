@@ -58,8 +58,10 @@ class RunMethod:
 		# 如果接口编码响应为5xx或者4xx的话，就把该接口url和该编码写入到dataconfig夹子下的err500list.txt文件
 		if str(res.status_code)[0] == "4" or str(res.status_code)[0] == "5" or str(res.status_code)[0] == "":
 			with open(r"../dataconfig/err500list.txt", "a+") as err500list:
-				new_500_error = str(datetime.datetime.now()) + '\n' + str(res.status_code) + '\n' + url + '\n'
+				new_500_error = '---------\n' + str(datetime.datetime.now()) + '\n' + str(res.status_code) + '\n' + url + '\n'
 				err500list.write(new_500_error)
+
+
 
 
 
@@ -98,6 +100,14 @@ if __name__ == '__main__':
 		"password": "123456",
 	}
 
+	voidAll =  {
+		"role_id": "81",
+		"company_id": "1",
+		"role_name": "测试1",
+		"role_note": ""
+	}
+	url111="http://oa.jc-saas.com.cn/role/edit"
+
 	createPosition1 = "http://oa.jc-saas.com.cn/position/detail"
 	createPosition1Data = {"position_id": "2"}
 
@@ -112,6 +122,5 @@ if __name__ == '__main__':
 
 
 	run_method = RunMethod()
-
-	res = run_method.run_main('post', createobs1Url, cba1, headers)
+	res = run_method.run_main('post', url111, voidAll, headers)
 	print(res)

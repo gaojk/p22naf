@@ -13,5 +13,18 @@
 		"parent_id": "",
 		"type_name": "zwTyp2",
 		"duties_type_id": ""
+	},
+	"checkParams1": {
+		"type_name": "zwTyp2",
+		"duties_type_id": ""
+	},
+	"checkParams2": {
+		"parent_id": "",
+		"duties_type_id": ""
+	},
+	"checkParams3": {
+		"parent_id": "",
+		"type_name": "zwTyp2"
 	}
+
 }

@@ -1,1 +1,4 @@
-{"api_of_allregular_workflow": "yes"}
+{
+  "api_of_allregular_workflow": "no",
+  "jsonParamRandomCheck": "yes"
+}

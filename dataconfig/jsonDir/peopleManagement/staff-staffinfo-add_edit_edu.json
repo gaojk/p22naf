@@ -31,7 +31,98 @@
 		"major_type_id": "2",
 		"major_name": "哲学",
 		"education_id": "2"
+	},
+	"checkParams1": {
+		"educational_id": "",
+		"start_time": "2011-11-11",
+		"end_time": "",
+		"school_name": "悲剧村小学",
+		"educational_type": "2",
+		"major_type_id": "2",
+		"major_name": "哲学",
+		"education_id": "2"
+	},
+	"checkParams2": {
+		"staff_id": "1",
+		"start_time": "2011-11-11",
+		"end_time": "",
+		"school_name": "悲剧村小学",
+		"educational_type": "2",
+		"major_type_id": "2",
+		"major_name": "哲学",
+		"education_id": "2"
+	},
+	"checkParams3": {
+		"staff_id": "1",
+		"educational_id": "",
+		"end_time": "",
+		"school_name": "悲剧村小学",
+		"educational_type": "2",
+		"major_type_id": "2",
+		"major_name": "哲学",
+		"education_id": "2"
+	},
+	"checkParams4": {
+		"staff_id": "1",
+		"educational_id": "",
+		"start_time": "2011-11-11",
+		"school_name": "悲剧村小学",
+		"educational_type": "2",
+		"major_type_id": "2",
+		"major_name": "哲学",
+		"education_id": "2"
+	},
+	"checkParams5": {
+		"staff_id": "1",
+		"educational_id": "",
+		"start_time": "2011-11-11",
+		"end_time": "",
+		"educational_type": "2",
+		"major_type_id": "2",
+		"major_name": "哲学",
+		"education_id": "2"
+	},
+	"checkParams6": {
+		"staff_id": "1",
+		"educational_id": "",
+		"start_time": "2011-11-11",
+		"end_time": "",
+		"school_name": "悲剧村小学",
+		"major_type_id": "2",
+		"major_name": "哲学",
+		"education_id": "2"
+	},
+	"checkParams7": {
+		"staff_id": "1",
+		"educational_id": "",
+		"start_time": "2011-11-11",
+		"end_time": "",
+		"school_name": "悲剧村小学",
+		"educational_type": "2",
+		"major_name": "哲学",
+		"education_id": "2"
+	},
+	"checkParams8": {
+		"staff_id": "1",
+		"educational_id": "",
+		"start_time": "2011-11-11",
+		"end_time": "",
+		"school_name": "悲剧村小学",
+		"educational_type": "2",
+		"major_type_id": "2",
+		"education_id": "2"
+	},
+	"checkParams9": {
+		"staff_id": "1",
+		"educational_id": "",
+		"start_time": "2011-11-11",
+		"end_time": "",
+		"school_name": "悲剧村小学",
+		"educational_type": "2",
+		"major_type_id": "2",
+		"major_name": "哲学"
 	}
+
 
 
 }

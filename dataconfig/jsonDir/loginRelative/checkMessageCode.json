@@ -1,19 +1,32 @@
 {
 	"voidPhoneAndVoidVerifyCode": {
-		"phone":"","verifycode":""
+		"phone":"",
+		"verifycode":""
 	},
 	"rightPhoneAndVoidVerifyCode": {
-		"phone":"13294193973","verifycode":""
+		"phone":"13294193973",
+		"verifycode":""
 	},
 	"wrongPhoneAndVoidVerifyCode": {
-		"phone":"123456","verifycode":""
+		"phone":"123456",
+		"verifycode":""
 	},
 	"下面这条需要输入正确验证码": "",
 	"VoidphoneAndRightVerifyCode": {
-		"phone":"","verifycode":"415597"
+		"phone":"",
+		"verifycode":"415597"
 	},
 	"下面这条需要输入正确验证码": "",
 	"rightPhoneAndRightVerifyCode": {
-		"phone":"13294193973","verifycode":"415597"
+		"phone":"13294193973",
+		"verifycode":"415597"
+	},
+	"checkParams1": {
+		"verifycode":"415597"
+	},
+	"checkParams2": {
+		"phone":"13294193973"
 	}
+
+
 }

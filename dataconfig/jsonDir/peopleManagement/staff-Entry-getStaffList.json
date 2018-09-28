@@ -18,6 +18,79 @@
 		"end_time": "",
 		"limit": "",
 		"page": ""
+	},
+	"checkParams1": {
+		"company_id": "",
+		"entrydata": "",
+		"work_status": "",
+		"begin_time": "",
+		"end_time": "",
+		"limit": "",
+		"page": ""
+	},
+	"checkParams2": {
+		"keywords": "jc0001",
+		"entrydata": "",
+		"work_status": "",
+		"begin_time": "",
+		"end_time": "",
+		"limit": "",
+		"page": ""
+	},
+	"checkParams3": {
+		"keywords": "jc0001",
+		"company_id": "",
+		"work_status": "",
+		"begin_time": "",
+		"end_time": "",
+		"limit": "",
+		"page": ""
+	},
+	"checkParams4": {
+		"keywords": "jc0001",
+		"company_id": "",
+		"entrydata": "",
+		"begin_time": "",
+		"end_time": "",
+		"limit": "",
+		"page": ""
+	},
+	"checkParams5": {
+		"keywords": "jc0001",
+		"company_id": "",
+		"entrydata": "",
+		"work_status": "",
+		"end_time": "",
+		"limit": "",
+		"page": ""
+	},
+	"checkParams6": {
+		"keywords": "jc0001",
+		"company_id": "",
+		"entrydata": "",
+		"work_status": "",
+		"begin_time": "",
+		"limit": "",
+		"page": ""
+	},
+	"checkParams7": {
+		"keywords": "jc0001",
+		"company_id": "",
+		"entrydata": "",
+		"work_status": "",
+		"begin_time": "",
+		"end_time": "",
+		"page": ""
+	},
+	"checkParams8": {
+		"keywords": "jc0001",
+		"company_id": "",
+		"entrydata": "",
+		"work_status": "",
+		"begin_time": "",
+		"end_time": "",
+		"limit": ""
 	}
+
 
 }

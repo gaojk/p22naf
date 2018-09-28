@@ -9,5 +9,25 @@
 		"在verifycode输入正确验证码继续测试": "",
 		"verifycode": "123456",
 		"token": ""
+	},
+	"checkParams1": {
+		"在verifycode输入正确验证码继续测试": "",
+		"verifycode": "123456",
+		"token": ""
+	},
+	"checkParams2": {
+		"phone": "13294193973",
+		"verifycode": "123456",
+		"token": ""
+	},
+	"checkParams3": {
+		"phone": "13294193973",
+		"在verifycode输入正确验证码继续测试": "",
+		"token": ""
+	},
+	"checkParams4": {
+		"phone": "13294193973",
+		"在verifycode输入正确验证码继续测试": "",
+		"verifycode": "123456"
 	}
 }

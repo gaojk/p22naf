@@ -6,5 +6,13 @@
 	"checkNameRedundant": {
 		"role_name": "人事专员",
 		"role_id": ""
+	},
+	"checkParams1": {
+		"role_name": "人事专员"
+	},
+	"checkParams2": {
+		"role_id": ""
 	}
+
+
 }

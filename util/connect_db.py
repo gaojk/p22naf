@@ -19,7 +19,7 @@ class OperationMysql:
 		self.cur.execute(sql)
 		# result = self.cur.fetchall()
 		result = self.cur.fetchone()
-		result = json.dumps(result)
+		result = json.dumps(result, ensure_ascii=False)
 		return result
 
 	#查询多条数据
@@ -27,11 +27,11 @@ class OperationMysql:
 		self.cur.execute(sql)
 		result = self.cur.fetchall()
 		# result = self.cur.fetchone()
-		result = json.dumps(result)
+		result = json.dumps(result, ensure_ascii=False)
 		return result
 
 
 if __name__ == '__main__':
 	op_mysql = OperationMysql()
-	res = op_mysql.search_one("select position_id from oa_position ")
+	res = op_mysql.search_all("select * from oa_obs where status = 1 and isno_company = 1")
 	print(res)

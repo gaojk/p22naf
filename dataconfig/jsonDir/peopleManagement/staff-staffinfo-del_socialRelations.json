@@ -4,6 +4,9 @@
 	},
 	"deleteStaffSociety": {
 		"relations_id": ""
+	},
+	"checkParams1": {
 	}
+
 
 }

@@ -10,5 +10,12 @@
 	"openStatus": {
 		"obs_ids": "",
 		"status": "1"
+	},
+	"checkParams1": {
+		"status": "1"
+	},
+	"checkParams2": {
+		"obs_ids": ""
 	}
+
 }

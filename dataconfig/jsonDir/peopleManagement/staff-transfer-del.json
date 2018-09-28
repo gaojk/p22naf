@@ -4,6 +4,9 @@
 	},
 	"deleteTransfer": {
 		"transfer_id": ""
+	},
+	"checkParams1": {
 	}
+
 
 }

@@ -20,6 +20,97 @@
 		"handover_work_number": "",
 		"dimission_why": "bbbbbb",
 		"questionnaire": ""
+	},
+	"checkParams1": {
+		"dimission_type": "1",
+		"dimission_time": "2011/11/11",
+		"salary_stop_time": "2011/11/11",
+		"gjj_stop_time": "2011/11/11",
+		"shebao_stop_time": "2011/11/11",
+		"handover_work_number": "",
+		"dimission_why": "bbbbbb",
+		"questionnaire": ""
+	},
+	"checkParams2": {
+		"dimission_id": "",
+		"dimission_time": "2011/11/11",
+		"salary_stop_time": "2011/11/11",
+		"gjj_stop_time": "2011/11/11",
+		"shebao_stop_time": "2011/11/11",
+		"handover_work_number": "",
+		"dimission_why": "bbbbbb",
+		"questionnaire": ""
+	},
+	"checkParams3": {
+		"dimission_id": "",
+		"dimission_type": "1",
+		"salary_stop_time": "2011/11/11",
+		"gjj_stop_time": "2011/11/11",
+		"shebao_stop_time": "2011/11/11",
+		"handover_work_number": "",
+		"dimission_why": "bbbbbb",
+		"questionnaire": ""
+	},
+	"checkParams4": {
+		"dimission_id": "",
+		"dimission_type": "1",
+		"dimission_time": "2011/11/11",
+		"gjj_stop_time": "2011/11/11",
+		"shebao_stop_time": "2011/11/11",
+		"handover_work_number": "",
+		"dimission_why": "bbbbbb",
+		"questionnaire": ""
+	},
+	"checkParams5": {
+		"dimission_id": "",
+		"dimission_type": "1",
+		"dimission_time": "2011/11/11",
+		"salary_stop_time": "2011/11/11",
+		"shebao_stop_time": "2011/11/11",
+		"handover_work_number": "",
+		"dimission_why": "bbbbbb",
+		"questionnaire": ""
+	},
+	"checkParams6": {
+		"dimission_id": "",
+		"dimission_type": "1",
+		"dimission_time": "2011/11/11",
+		"salary_stop_time": "2011/11/11",
+		"gjj_stop_time": "2011/11/11",
+		"handover_work_number": "",
+		"dimission_why": "bbbbbb",
+		"questionnaire": ""
+	},
+	"checkParams7": {
+		"dimission_id": "",
+		"dimission_type": "1",
+		"dimission_time": "2011/11/11",
+		"salary_stop_time": "2011/11/11",
+		"gjj_stop_time": "2011/11/11",
+		"shebao_stop_time": "2011/11/11",
+		"dimission_why": "bbbbbb",
+		"questionnaire": ""
+	},
+	"checkParams8": {
+		"dimission_id": "",
+		"dimission_type": "1",
+		"dimission_time": "2011/11/11",
+		"salary_stop_time": "2011/11/11",
+		"gjj_stop_time": "2011/11/11",
+		"shebao_stop_time": "2011/11/11",
+		"handover_work_number": "",
+		"questionnaire": ""
+	},
+	"checkParams9": {
+		"dimission_id": "",
+		"dimission_type": "1",
+		"dimission_time": "2011/11/11",
+		"salary_stop_time": "2011/11/11",
+		"gjj_stop_time": "2011/11/11",
+		"shebao_stop_time": "2011/11/11",
+		"handover_work_number": "",
+		"dimission_why": "bbbbbb"
 	}
+
 
 }

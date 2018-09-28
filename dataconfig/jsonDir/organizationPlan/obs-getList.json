@@ -16,6 +16,27 @@
 		"keywords": "",
 		"status": "",
 		"limit": ""
+	},
+	"checkParams1": {
+		"keywords": "",
+		"status": "",
+		"limit": ""
+	},
+	"checkParams2": {
+		"obs_id": "4",
+		"status": "",
+		"limit": ""
+	},
+	"checkParams3": {
+		"obs_id": "4",
+		"keywords": "",
+		"limit": ""
+	},
+	"checkParams4": {
+		"obs_id": "4",
+		"keywords": "",
+		"status": ""
 	}
+
 
 }

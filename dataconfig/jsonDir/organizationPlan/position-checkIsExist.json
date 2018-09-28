@@ -10,5 +10,12 @@
 	"positionCodeCheck": {
 		"field": "position_code",
 		"value": "1001"
+	},
+	"checkParams1": {
+		"value": "1001"
+	},
+	"checkParams2": {
+		"field": "position_code"
 	}
+
 }

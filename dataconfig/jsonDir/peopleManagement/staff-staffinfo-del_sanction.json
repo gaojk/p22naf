@@ -4,5 +4,8 @@
 	},
 	"deleteStaffAward": {
 		"sanction_id": ""
+	},
+	"checkParams1": {
 	}
+
 }

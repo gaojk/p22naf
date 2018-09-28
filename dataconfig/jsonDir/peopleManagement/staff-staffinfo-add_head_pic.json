@@ -6,5 +6,12 @@
 	"setPic": {
 		"staff_id": "1",
 		"head_pic_url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1536922481871&di=46e4177322a7248b26a14b5745b36ffa&imgtype=0&src=http%3A%2F%2Fimg.xker.com%2Fxkerfiles%2Fallimg%2F1509%2F22592R433-2.png"
+	},
+	"checkParams1": {
+		"head_pic_url": "https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1536922481871&di=46e4177322a7248b26a14b5745b36ffa&imgtype=0&src=http%3A%2F%2Fimg.xker.com%2Fxkerfiles%2Fallimg%2F1509%2F22592R433-2.png"
+	},
+	"checkParams2": {
+		"staff_id": "1"
 	}
+
 }

@@ -34,5 +34,26 @@
 		"pass_conf": "123456",
 		"phone": "13294193973",
 		"token": ""
+	},
+	"checkParams1": {
+		"pass_conf": "123456",
+		"phone": "13294193973",
+		"token": ""
+	},
+	"checkParams2": {
+		"new_pass": "123456",
+		"phone": "13294193973",
+		"token": ""
+	},
+	"checkParams3": {
+		"new_pass": "123456",
+		"pass_conf": "123456",
+		"token": ""
+	},
+	"checkParams4": {
+		"new_pass": "123456",
+		"pass_conf": "123456",
+		"phone": "13294193973"
 	}
+
 }

@@ -18,6 +18,79 @@
 		"change_position_id": "",
 		"change_other_position_id": "",
 		"note": "test edit transfer"
+	},
+	"checkParams1": {
+		"transfer_type": "1",
+		"transfer_time": "2018/11/11",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": "test edit transfer"
+	},
+	"checkParams2": {
+		"transfer_id": "5",
+		"transfer_time": "2018/11/11",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": "test edit transfer"
+	},
+	"checkParams3": {
+		"transfer_id": "5",
+		"transfer_type": "1",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": "test edit transfer"
+	},
+	"checkParams4": {
+		"transfer_id": "5",
+		"transfer_type": "1",
+		"transfer_time": "2018/11/11",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": "test edit transfer"
+	},
+	"checkParams5": {
+		"transfer_id": "5",
+		"transfer_type": "1",
+		"transfer_time": "2018/11/11",
+		"change_obs_id": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": "test edit transfer"
+	},
+	"checkParams6": {
+		"transfer_id": "5",
+		"transfer_type": "1",
+		"transfer_time": "2018/11/11",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_other_position_id": "",
+		"note": "test edit transfer"
+	},
+	"checkParams7": {
+		"transfer_id": "5",
+		"transfer_type": "1",
+		"transfer_time": "2018/11/11",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"note": "test edit transfer"
+	},
+	"checkParams8": {
+		"transfer_id": "5",
+		"transfer_type": "1",
+		"transfer_time": "2018/11/11",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": ""
 	}
+
 
 }

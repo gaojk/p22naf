@@ -8,6 +8,17 @@
 		"message_address": "1212312",
 		"message_account_id": "3123123",
 		"message_account_key": "123123123"
+	},
+	"checkParams1": {
+		"message_account_id": "3123123",
+		"message_account_key": "123123123"
+	},
+	"checkParams2": {
+		"message_address": "1212312",
+		"message_account_key": "123123123"
+	},
+	"checkParams3": {
+		"message_address": "1212312",
+		"message_account_id": "3123123"
 	}
-
 }

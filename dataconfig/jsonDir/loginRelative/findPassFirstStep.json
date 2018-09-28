@@ -24,5 +24,18 @@
 		"work_number": "JC0001",
 		"phone": "13294193973",
 		"verifycode": "531571"
+	},
+	"checkParams1": {
+		"phone": "13294193973",
+		"verifycode": "531571"
+	},
+	"checkParams2": {
+		"work_number": "JC0001",
+		"verifycode": "531571"
+	},
+	"checkParams3": {
+		"work_number": "JC0001",
+		"phone": "13294193973"
 	}
+
 }

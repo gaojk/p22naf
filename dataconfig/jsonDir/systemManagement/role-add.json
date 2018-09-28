@@ -10,5 +10,26 @@
 		"company_id": "1",
 		"role_note": "测试角色1 note",
 		"power_id_arr": "[1,2,3]"
+	},
+	"checkParams1": {
+		"company_id": "1",
+		"role_note": "测试角色1 note",
+		"power_id_arr": "[1,2,3]"
+	},
+	"checkParams2": {
+		"role_name": "测试角色1",
+		"role_note": "测试角色1 note",
+		"power_id_arr": "[1,2,3]"
+	},
+	"checkParams3": {
+		"role_name": "测试角色1",
+		"company_id": "1",
+		"power_id_arr": "[1,2,3]"
+	},
+	"checkParams4": {
+		"role_name": "测试角色1",
+		"company_id": "1",
+		"role_note": "测试角色1 note"
 	}
+
 }

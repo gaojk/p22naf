@@ -16,7 +16,26 @@
 		"keywords": "",
 		"page": "",
 		"limit": ""
+	},
+	"checkParams1": {
+		"keywords": "",
+		"page": "",
+		"limit": ""
+	},
+	"checkParams2": {
+		"obs_id": "",
+		"page": "",
+		"limit": ""
+	},
+	"checkParams3": {
+		"obs_id": "",
+		"keywords": "",
+		"limit": ""
+	},
+	"checkParams4": {
+		"obs_id": "",
+		"keywords": "",
+		"page": ""
 	}
-
 
 }

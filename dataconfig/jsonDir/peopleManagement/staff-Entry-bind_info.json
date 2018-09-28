@@ -8,6 +8,19 @@
 		"staff_id": "1",
 		"info[0][entrydata_type_id]": "2",
 		"info[0][upload_file_url]": "123123"
+	},
+	"checkParams1": {
+		"info[0][entrydata_type_id]": "2",
+		"info[0][upload_file_url]": "123123"
+	},
+	"checkParams2": {
+		"staff_id": "1",
+		"info[0][upload_file_url]": "123123"
+	},
+	"checkParams3": {
+		"staff_id": "1",
+		"info[0][entrydata_type_id]": "2"
 	}
+
 
 }

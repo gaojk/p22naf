@@ -10,6 +10,9 @@
 	},
 	"getMessage": {
 		"type_id": "3"
+	},
+	"checkParams1": {
 	}
+
 
 }

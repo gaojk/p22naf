@@ -12,6 +12,44 @@
 		"role_name": "测试角色2",
 		"role_note": "测试角色2 note",
 		"power_id_arr": "[1,2,3]"
+	},
+	"check5001": {
+		"role_id": "81",
+		"company_id": "1",
+		"role_name": "测试1",
+		"role_note": ""
+	},
+
+	"checkParams1": {
+		"company_id": "1",
+		"role_name": "测试角色2",
+		"role_note": "测试角色2 note",
+		"power_id_arr": "[1,2,3]"
+	},
+	"checkParams2": {
+		"role_id": "",
+		"role_name": "测试角色2",
+		"role_note": "测试角色2 note",
+		"power_id_arr": "[1,2,3]"
+	},
+	"checkParams3": {
+		"role_id": "",
+		"company_id": "1",
+		"role_note": "测试角色2 note",
+		"power_id_arr": "[1,2,3]"
+	},
+	"checkParams4": {
+		"role_id": "",
+		"company_id": "1",
+		"role_name": "测试角色2",
+		"power_id_arr": "[1,2,3]"
+	},
+	"checkParams5": {
+		"role_id": "",
+		"company_id": "1",
+		"role_name": "测试角色2",
+		"role_note": "测试角色2 note"
 	}
+
 
 }

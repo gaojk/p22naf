@@ -22,6 +22,117 @@
 		"datesigning_endtime": "",
 		"contract_begintime": "",
 		"contract_endtime": ""
+	},
+	"checkParams1": {
+		"limit": "",
+		"keywords": "",
+		"work_status": "",
+		"contract_type": "",
+		"contract_status": "",
+		"datesigning_begintime": "",
+		"datesigning_endtime": "",
+		"contract_begintime": "",
+		"contract_endtime": ""
+	},
+	"checkParams2": {
+		"page": "",
+		"keywords": "",
+		"work_status": "",
+		"contract_type": "",
+		"contract_status": "",
+		"datesigning_begintime": "",
+		"datesigning_endtime": "",
+		"contract_begintime": "",
+		"contract_endtime": ""
+	},
+	"checkParams3": {
+		"page": "",
+		"limit": "",
+		"work_status": "",
+		"contract_type": "",
+		"contract_status": "",
+		"datesigning_begintime": "",
+		"datesigning_endtime": "",
+		"contract_begintime": "",
+		"contract_endtime": ""
+	},
+	"checkParams4": {
+		"page": "",
+		"limit": "",
+		"keywords": "",
+		"contract_type": "",
+		"contract_status": "",
+		"datesigning_begintime": "",
+		"datesigning_endtime": "",
+		"contract_begintime": "",
+		"contract_endtime": ""
+	},
+	"checkParams5": {
+		"page": "",
+		"limit": "",
+		"keywords": "",
+		"work_status": "",
+		"contract_status": "",
+		"datesigning_begintime": "",
+		"datesigning_endtime": "",
+		"contract_begintime": "",
+		"contract_endtime": ""
+	},
+	"checkParams6": {
+		"page": "",
+		"limit": "",
+		"keywords": "",
+		"work_status": "",
+		"contract_type": "",
+		"datesigning_begintime": "",
+		"datesigning_endtime": "",
+		"contract_begintime": "",
+		"contract_endtime": ""
+	},
+	"checkParams7": {
+		"page": "",
+		"limit": "",
+		"keywords": "",
+		"work_status": "",
+		"contract_type": "",
+		"contract_status": "",
+		"datesigning_endtime": "",
+		"contract_begintime": "",
+		"contract_endtime": ""
+	},
+	"checkParams8": {
+		"page": "",
+		"limit": "",
+		"keywords": "",
+		"work_status": "",
+		"contract_type": "",
+		"contract_status": "",
+		"datesigning_begintime": "",
+		"contract_begintime": "",
+		"contract_endtime": ""
+	},
+	"checkParams9": {
+		"page": "",
+		"limit": "",
+		"keywords": "",
+		"work_status": "",
+		"contract_type": "",
+		"contract_status": "",
+		"datesigning_begintime": "",
+		"datesigning_endtime": "",
+		"contract_endtime": ""
+	},
+	"checkParams10": {
+		"page": "",
+		"limit": "",
+		"keywords": "",
+		"work_status": "",
+		"contract_type": "",
+		"contract_status": "",
+		"datesigning_begintime": "",
+		"datesigning_endtime": "",
+		"contract_begintime": ""
 	}
+
 
 }

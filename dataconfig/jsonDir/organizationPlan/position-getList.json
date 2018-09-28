@@ -5,5 +5,36 @@
 		"select_type": "",
 		"page": "",
 		"limit": ""
+	},
+	"checkParams1": {
+		"keywords": "",
+		"select_type": "",
+		"page": "",
+		"limit": ""
+	},
+	"checkParams2": {
+		"company_id": "",
+		"select_type": "",
+		"page": "",
+		"limit": ""
+	},
+	"checkParams3": {
+		"company_id": "",
+		"keywords": "",
+		"page": "",
+		"limit": ""
+	},
+	"checkParams4": {
+		"company_id": "",
+		"keywords": "",
+		"select_type": "",
+		"limit": ""
+	},
+	"checkParams5": {
+		"company_id": "",
+		"keywords": "",
+		"select_type": "",
+		"page": ""
 	}
+
 }

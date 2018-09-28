@@ -8,6 +8,19 @@
 		"user_id": "1",
 		"user_role": "",
 		"user_company": ""
+	},
+	"checkParams1": {
+		"user_role": "",
+		"user_company": ""
+	},
+	"checkParams2": {
+		"user_id": "1",
+		"user_company": ""
+	},
+	"checkParams3": {
+		"user_id": "1",
+		"user_role": ""
 	}
+
 
 }

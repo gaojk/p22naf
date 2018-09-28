@@ -8,6 +8,19 @@
 		"user_id": "1",
 		"password": "123456",
 		"password_confirm": "123456"
+	},
+	"checkParams1": {
+		"password": "123456",
+		"password_confirm": "123456"
+	},
+	"checkParams2": {
+		"user_id": "1",
+		"password_confirm": "123456"
+	},
+	"checkParams3": {
+		"user_id": "1",
+		"password": "123456"
 	}
+
 
 }

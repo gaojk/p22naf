@@ -10,8 +10,46 @@
 		"work_number": "jcjc99",
 		"password": "123456aa",
 		"password_confirm": "123456aa",
-		"user_role": [1,2,3,4],
-		"user_company": [1,2,3,4]
+		"user_role": "[1,2,3,4]",
+		"user_company": "[1,2,3,4]"
+	},
+	"check5001": {
+		"work_number": "jc0006",
+		"password": "321321321321aa",
+		"password_confirm": "321321321321aa",
+		"user_role": "[2,5]"
+	},
+	"checkParams1": {
+		"password": "123456aa",
+		"password_confirm": "123456aa",
+		"user_role": "[1,2,3,4]",
+		"user_company": "[1,2,3,4]"
+	},
+	"checkParams2": {
+		"work_number": "jcjc99",
+		"password_confirm": "123456aa",
+		"user_role": "[1,2,3,4]",
+		"user_company": "[1,2,3,4]"
+	},
+	"checkParams3": {
+		"work_number": "jcjc99",
+		"password": "123456aa",
+		"user_role": "[1,2,3,4]",
+		"user_company": "[1,2,3,4]"
+	},
+	"checkParams4": {
+		"work_number": "jcjc99",
+		"password": "123456aa",
+		"password_confirm": "123456aa",
+		"user_company": "[1,2,3,4]"
+	},
+	"checkParams5": {
+		"work_number": "jcjc99",
+		"password": "123456aa",
+		"password_confirm": "123456aa",
+		"user_role": "[1,2,3,4]"
 	}
+
+
 
 }

@@ -10,6 +10,27 @@
 		"limit": "",
 		"keywords": "王五",
 		"company_id": ""
+	},
+	"checkParams1": {
+		"limit": "",
+		"keywords": "王五",
+		"company_id": ""
+	},
+	"checkParams2": {
+		"page": "",
+		"keywords": "王五",
+		"company_id": ""
+	},
+	"checkParams3": {
+		"page": "",
+		"limit": "",
+		"company_id": ""
+	},
+	"checkParams4": {
+		"page": "",
+		"limit": "",
+		"keywords": "王五"
 	}
+
 
 }

@@ -18,6 +18,79 @@
 		"transfer_type": "",
 		"transfer_time_start": "",
 		"transfer_time_end": ""
+	},
+		"checkParams1": {
+		"keywords": "",
+		"limit": "",
+		"status": "",
+		"work_status": "",
+		"transfer_type": "",
+		"transfer_time_start": "",
+		"transfer_time_end": ""
+	},
+		"checkParams2": {
+		"obs_id": "",
+		"limit": "",
+		"status": "",
+		"work_status": "",
+		"transfer_type": "",
+		"transfer_time_start": "",
+		"transfer_time_end": ""
+	},
+		"checkParams3": {
+		"obs_id": "",
+		"keywords": "",
+		"status": "",
+		"work_status": "",
+		"transfer_type": "",
+		"transfer_time_start": "",
+		"transfer_time_end": ""
+	},
+		"checkParams4": {
+		"obs_id": "",
+		"keywords": "",
+		"limit": "",
+		"work_status": "",
+		"transfer_type": "",
+		"transfer_time_start": "",
+		"transfer_time_end": ""
+	},
+		"checkParams5": {
+		"obs_id": "",
+		"keywords": "",
+		"limit": "",
+		"status": "",
+		"transfer_type": "",
+		"transfer_time_start": "",
+		"transfer_time_end": ""
+	},
+		"checkParams6": {
+		"obs_id": "",
+		"keywords": "",
+		"limit": "",
+		"status": "",
+		"work_status": "",
+		"transfer_time_start": "",
+		"transfer_time_end": ""
+	},
+		"checkParams7": {
+		"obs_id": "",
+		"keywords": "",
+		"limit": "",
+		"status": "",
+		"work_status": "",
+		"transfer_type": "",
+		"transfer_time_end": ""
+	},
+		"checkParams8": {
+		"obs_id": "",
+		"keywords": "",
+		"limit": "",
+		"status": "",
+		"work_status": "",
+		"transfer_type": "",
+		"transfer_time_start": ""
 	}
+
 
 }

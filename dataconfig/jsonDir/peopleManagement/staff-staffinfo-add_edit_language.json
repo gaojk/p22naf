@@ -22,7 +22,51 @@
 		"grade": "2级",
 		"exam_type": "他考",
 		"fraction": "200"
+	},
+	"checkParams1": {
+		"language_id": "",
+		"language_name": "英文",
+		"grade": "2级",
+		"exam_type": "他考",
+		"fraction": "200"
+	},
+	"checkParams2": {
+		"staff_id": "1",
+		"language_name": "英文",
+		"grade": "2级",
+		"exam_type": "他考",
+		"fraction": "200"
+	},
+	"checkParams3": {
+		"staff_id": "1",
+		"language_id": "",
+		"grade": "2级",
+		"exam_type": "他考",
+		"fraction": "200"
+	},
+	"checkParams4": {
+		"staff_id": "1",
+		"language_id": "",
+		"language_name": "英文",
+		"exam_type": "他考",
+		"fraction": "200"
+	},
+	"checkParams5": {
+		"staff_id": "1",
+		"language_id": "",
+		"language_name": "英文",
+		"grade": "2级",
+		"fraction": "200"
+	},
+	"checkParams6": {
+		"staff_id": "1",
+		"language_id": "",
+		"language_name": "英文",
+		"grade": "2级",
+		"exam_type": "他考"
 	}
+
+
 
 
 }

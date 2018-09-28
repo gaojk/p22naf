@@ -4,5 +4,26 @@
 		"relation_id": "",
 		"page": "",
 		"limit": ""
+	},
+	"checkParams1": {
+		"relation_id": "",
+		"page": "",
+		"limit": ""
+	},
+	"checkParams2": {
+		"attachment_type": "",
+		"page": "",
+		"limit": ""
+	},
+	"checkParams3": {
+		"attachment_type": "",
+		"relation_id": "",
+		"limit": ""
+	},
+	"checkParams4": {
+		"attachment_type": "",
+		"relation_id": "",
+		"page": ""
 	}
+
 }

@@ -13,6 +13,19 @@
 		"parent_id": "1",
 		"obs_name": "软件部123",
 		"obs_id": ""
+	},
+	"checkParams1": {
+		"obs_name": "软件部123",
+		"obs_id": ""
+	},
+	"checkParams2": {
+		"parent_id": "1",
+		"obs_id": ""
+	},
+	"checkParams3": {
+		"parent_id": "1",
+		"obs_name": "软件部123"
 	}
+
 
 }

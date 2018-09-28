@@ -16,6 +16,63 @@
 		"change_position_id": "",
 		"change_other_position_id": "",
 		"note": ""
+	},
+	"checkParams1": {
+		"actual_formal_time": "2011-11-12",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": ""
+	},
+	"checkParams2": {
+		"work_number": "jc0001",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": ""
+	},
+	"checkParams3": {
+		"work_number": "jc0001",
+		"actual_formal_time": "2011-11-12",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": ""
+	},
+	"checkParams4": {
+		"work_number": "jc0001",
+		"actual_formal_time": "2011-11-12",
+		"change_obs_id": "",
+		"change_position_id": "",
+		"change_other_position_id": "",
+		"note": ""
+	},
+	"checkParams5": {
+		"work_number": "jc0001",
+		"actual_formal_time": "2011-11-12",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_other_position_id": "",
+		"note": ""
+	},
+	"checkParams6": {
+		"work_number": "jc0001",
+		"actual_formal_time": "2011-11-12",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"note": ""
+	},
+	"checkParams7": {
+		"work_number": "jc0001",
+		"actual_formal_time": "2011-11-12",
+		"change_obs_id": "",
+		"change_work_type": "",
+		"change_position_id": "",
+		"change_other_position_id": ""
 	}
+
 
 }

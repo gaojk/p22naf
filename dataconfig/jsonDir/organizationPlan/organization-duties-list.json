@@ -4,5 +4,26 @@
 		"is_export": "",
 		"ids": "",
 		"limit": ""
+	},
+	"checkParams1": {
+		"is_export": "",
+		"ids": "",
+		"limit": ""
+	},
+	"checkParams2": {
+		"duties_name": "",
+		"ids": "",
+		"limit": ""
+	},
+	"checkParams3": {
+		"duties_name": "",
+		"is_export": "",
+		"limit": ""
+	},
+	"checkParams4": {
+		"duties_name": "",
+		"is_export": "",
+		"ids": ""
 	}
+
 }
