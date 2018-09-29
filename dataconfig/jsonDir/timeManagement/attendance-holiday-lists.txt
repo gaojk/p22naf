@@ -1,3 +1,0 @@
-holiday_id
-coding
-name

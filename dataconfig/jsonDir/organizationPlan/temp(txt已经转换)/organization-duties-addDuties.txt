@@ -1,0 +1,5 @@
+duties_name
+duties_type_id
+grade_down
+grade_up
+note

@@ -1,0 +1,6 @@
+staff_id
+certificate_name
+certificate_code
+reg_unit
+award_unit
+gain_time

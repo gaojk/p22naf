@@ -1,0 +1,24 @@
+{
+	"voidAll": {
+		"staff_id": "",
+		"relations_id": "",
+		"relations_name": "",
+		"relations_type": "",
+		"phone": "",
+		"address": "",
+		"unit_name": "",
+		"position_name": "",
+		"birthday_date": ""
+	},
+	"": {
+		"staff_id": "",
+		"relations_id": "",
+		"relations_name": "",
+		"relations_type": "",
+		"phone": "",
+		"address": "",
+		"unit_name": "",
+		"position_name": "",
+		"birthday_date": ""
+	}
+}

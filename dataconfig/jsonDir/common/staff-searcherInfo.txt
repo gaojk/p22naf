@@ -1,2 +1,0 @@
-staff_id
-check_model

@@ -1,3 +1,0 @@
-power_id
-client_route
-class_icon

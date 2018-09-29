@@ -1,5 +1,0 @@
-power_str
-class_icon
-menu_name
-power_name
-client_route

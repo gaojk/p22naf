@@ -1,0 +1,18 @@
+{
+	"voidAll": {
+		"staff_id": "",
+		"language_id": "",
+		"language_name": "",
+		"grade": "",
+		"exam_type": "",
+		"fraction": ""
+	},
+	"": {
+		"staff_id": "",
+		"language_id": "",
+		"language_name": "",
+		"grade": "",
+		"exam_type": "",
+		"fraction": ""
+	}
+}

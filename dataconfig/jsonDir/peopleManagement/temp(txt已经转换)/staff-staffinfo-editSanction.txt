@@ -1,0 +1,6 @@
+sanction_id
+sanction_time
+sanction_type
+sanction_way
+sanction_why
+note

@@ -1,0 +1,20 @@
+{
+	"voidAll": {
+		"staff_id": "",
+		"start_time": "",
+		"end_time": "",
+		"company_name": "",
+		"position_name": "",
+		"salary": "",
+		"work_describe": ""
+	},
+	"": {
+		"staff_id": "",
+		"start_time": "",
+		"end_time": "",
+		"company_name": "",
+		"position_name": "",
+		"salary": "",
+		"work_describe": ""
+	}
+}

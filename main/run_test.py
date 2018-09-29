@@ -26,6 +26,7 @@ class RunTest:
 			if get_json_of_excel[jsonOfExcelDict].lower() == 'yes':
 				excel_path = '../dataconfig/' + jsonOfExcelDict + '.xls'
 				self.data = GetData(excel_path, 0)
+				self.run_method.setExcelPathName(excel_path)
 			else:
 				continue
 			res = None

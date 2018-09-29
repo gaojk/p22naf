@@ -1,2 +1,0 @@
-key_words
-check_model

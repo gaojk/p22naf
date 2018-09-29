@@ -1,3 +1,0 @@
-attendance_cycle
-company_id
-daily_id

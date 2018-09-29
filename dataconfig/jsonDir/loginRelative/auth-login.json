@@ -1,0 +1,30 @@
+{
+	"rightLogin0001": {
+		"work_number":"jc0001",
+		"password":"123456"
+    },
+	"rightLogin0007": {
+		"work_number":"jc0007",
+		"password":"123456aa"
+    },
+	"voidLogin": {
+		"work_number":"",
+		"password":""
+    },
+	"wrongWorkNumberLogin": {
+		"work_number":"abctest",
+		"password":"123456"
+    },
+	"wrongPasswordLogin": {
+		"work_number":"jc0001",
+		"password":"88888888"
+    },
+	"checkParams1": {
+		"password":"88888888"
+    },
+	"checkParams2": {
+		"work_number":"jc0001"
+    }
+
+}
+

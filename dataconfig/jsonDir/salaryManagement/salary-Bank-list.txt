@@ -1,6 +1,0 @@
-is_entry
-company_id
-keywords
-work_status
-limit
-page

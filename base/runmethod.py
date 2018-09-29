@@ -58,8 +58,16 @@ class RunMethod:
 		# 如果接口编码响应为5xx或者4xx的话，就把该接口url和该编码写入到dataconfig夹子下的err500list.txt文件
 		if str(res.status_code)[0] == "4" or str(res.status_code)[0] == "5" or str(res.status_code)[0] == "":
 			with open(r"../dataconfig/err500list.txt", "a+") as err500list:
-				new_500_error = '---------\n' + str(datetime.datetime.now()) + '\n' + str(res.status_code) + '\n' + url + '\n'
+				new_500_error = '---------\n' + self.getExcelPathName() + '\n' + str(datetime.datetime.now()) + '\n' + str(res.status_code) + '\n' + url + '\n'
 				err500list.write(new_500_error)
+
+	def getExcelPathName(self):
+		return self.excelPathName
+
+	def setExcelPathName(self, excelPathName):
+		self.excelPathName = excelPathName
+
+
 
 
 

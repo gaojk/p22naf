@@ -1,0 +1,3 @@
+parent_id
+type_name
+duties_type_id

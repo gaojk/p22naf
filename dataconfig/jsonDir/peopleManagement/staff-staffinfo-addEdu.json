@@ -1,0 +1,22 @@
+{
+	"voidAll": {
+		"staff_id": "",
+		"start_time": "",
+		"end_time": "",
+		"school_name": "",
+		"educational_type": "",
+		"major_type_id": "",
+		"major_name": "",
+		"education_id": ""
+	},
+	"": {
+		"staff_id": "",
+		"start_time": "",
+		"end_time": "",
+		"school_name": "",
+		"educational_type": "",
+		"major_type_id": "",
+		"major_name": "",
+		"education_id": ""
+	}
+}

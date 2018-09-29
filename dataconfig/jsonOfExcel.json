@@ -1,4 +1,10 @@
 {
-  "api_of_allregular_workflow": "no",
-  "jsonParamRandomCheck": "yes"
+  "api_of_allregular_workflow0001": "no",
+  "api_of_allregular_workflow0007": "no",
+  "jsonParamRandomCheck": "no",
+  "OA_all_void_api_test": "yes",
+  "tempXlsForLocateBug": "no"
+
+
+
 }

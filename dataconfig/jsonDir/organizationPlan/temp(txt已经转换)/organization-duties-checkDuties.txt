@@ -1,0 +1,2 @@
+duties_name
+duties_id
