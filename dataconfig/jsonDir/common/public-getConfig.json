@@ -2,7 +2,46 @@
 	"voidAll": {
 		"fields": ""
 	},
-	"getCertificateType": {
+	"getConfig1": {
 		"fields": "certificate_type"
+	},
+	"getConfig2": {
+		"fields": "nation"
+	},
+	"getConfig3": {
+		"fields": "education"
+	},
+	"getConfig4": {
+		"fields": "political_status"
+	},
+	"getConfig5": {
+		"fields": "marriage_status"
+	},
+	"getConfig6": {
+		"fields": "staff_status"
+	},
+	"getConfig7": {
+		"fields": "staff_type"
+	},
+	"getConfig8": {
+		"fields": "probation_period"
+	},
+	"getConfig9": {
+		"fields": "staff_transfer_type"
+	},
+	"getConfig10": {
+		"fields": "staff_dimission_type"
+	},
+	"getConfig11": {
+		"fields": "dimission_questionnaire"
+	},
+	"getConfig12": {
+		"fields": "punch_result_array"
+	},
+	"getConfig13": {
+		"fields": "salary_confirm_type"
 	}
+
+
+
 }

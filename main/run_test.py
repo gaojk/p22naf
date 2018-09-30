@@ -45,7 +45,7 @@ class RunTest:
 					case_id = self.data.get_case_id(i)
 					case_name = self.data.get_case_name(i)
 					# 显示当前正在执行的case的id和name，用来在报错的时候定位是那一条case出问题了
-					print(case_id + "---" + case_name)
+					print("ID：\n{}\n接口名称：{}\n调用表路径：{}".format(case_id, case_name, excel_path))
 					url = self.data.get_request_url(i)
 					method = self.data.get_request_method(i)
 					request_data = self.data.get_data_for_json(i)

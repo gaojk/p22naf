@@ -3,8 +3,17 @@
   "api_of_allregular_workflow0007": "no",
   "jsonParamRandomCheck": "no",
   "OA_all_void_api_test": "yes",
-  "tempXlsForLocateBug": "no"
+  "tempXlsForLocateBug": "no",
+  "regression500": "no",
 
-
+  "sortByFunctionModule/common/OA_all_void_api_test_common": "no",
+  "sortByFunctionModule/cultureEstablish/OA_all_void_api_test_cultureEstablish": "no",
+  "sortByFunctionModule/homePage/OA_all_void_api_test_homePage": "no",
+  "sortByFunctionModule/loginRelative/OA_all_void_api_test_loginRelative": "no",
+  "sortByFunctionModule/peopleManagement/OA_all_void_api_test_peopleManagement": "no",
+  "sortByFunctionModule/personalSpace/OA_all_void_api_test_personalSpace": "no",
+  "sortByFunctionModule/salaryManagement/OA_all_void_api_test_salaryManagement": "no",
+  "sortByFunctionModule/systemManagement/OA_all_void_api_test_systemManagement": "no",
+  "sortByFunctionModule/timeManagement/OA_all_void_api_test_timeManagement": "no"
 
 }

@@ -58,6 +58,7 @@ class RunMethod:
 		# 如果接口编码响应为5xx或者4xx的话，就把该接口url和该编码写入到dataconfig夹子下的err500list.txt文件
 		if str(res.status_code)[0] == "4" or str(res.status_code)[0] == "5" or str(res.status_code)[0] == "":
 			with open(r"../dataconfig/err500list.txt", "a+") as err500list:
+				# self.setExcelPathName("测试测试")
 				new_500_error = '---------\n' + self.getExcelPathName() + '\n' + str(datetime.datetime.now()) + '\n' + str(res.status_code) + '\n' + url + '\n'
 				err500list.write(new_500_error)
 
@@ -114,7 +115,18 @@ if __name__ == '__main__':
 		"role_name": "测试1",
 		"role_note": ""
 	}
-	url111="http://oa.jc-saas.com.cn/role/edit"
+	voidAll =  {
+		"staff_id": "1",
+		"contract_type": "2",
+		"contract_number": "2222",
+		"contract_company": 2,
+		"date_signing": "2012-12-12",
+		"contract_start_time": "2012-12-12",
+		"note": "test contract edit",
+		"staff_contract_id": ""
+	}
+	url111="http://oa.jc-saas.com.cn/staff/Contract/add"
+
 
 	createPosition1 = "http://oa.jc-saas.com.cn/position/detail"
 	createPosition1Data = {"position_id": "2"}
