@@ -19,6 +19,14 @@ class RunTest:
 
 	#程序执行的
 	def go_on_run(self):
+		count_all_case = 0
+		count_all_case_detail = []
+		count_yes_case = 0
+		count_yes_case_detail = []
+		count_no_case = 0
+		count_no_case_detail = []
+		pass_count = []
+		fail_count = []
 		#通过data_json_of_excel来获取json文件里面保存的excel文件名，然后根据字典里面的value值是否为yes来确定执行相应的excel
 		get_json_of_excel = self.data_json_of_excel.get_json_of_excel()
 		#这里的for循环是为了控制遍历执行json文件中的所有需执行的excel文件
@@ -30,8 +38,7 @@ class RunTest:
 			else:
 				continue
 			res = None
-			pass_count = []
-			fail_count = []
+
 			#10  0,1,2,3
 			rows_count = self.data.get_case_lines()
 			#置空上次接口测试的结果
@@ -40,8 +47,10 @@ class RunTest:
 			# 	print(self.data.get_case_name(i))
 			#开始接口测试
 			for i in range(1,rows_count):
+				count_all_case += 1
 				is_run = self.data.get_is_run(i)
 				if is_run:
+					count_yes_case += 1
 					case_id = self.data.get_case_id(i)
 					case_name = self.data.get_case_name(i)
 					# 显示当前正在执行的case的id和name，用来在报错的时候定位是那一条case出问题了
@@ -134,10 +143,14 @@ class RunTest:
 
 					sql_result = self.data.get_all_sql_data(i, self.data.get_sql_result_data)
 					self.data.write_sql_result(i, sql_result)
-			self.send_mai.send_main(pass_count,fail_count, jsonOfExcelDict)
-
-	#将执行判断封装
-	#def get_cookie_run(self,header):
+				else:
+					count_no_case_detail.append(self.data.get_case_name(i))
+		self.send_mai.send_main(pass_count,fail_count, "OA项目所有空参数测试点")
+		print('所有case条数为：{}条；\n运行了的case条数为{}条；\n没有运行的case条数为{}条.'.format(count_all_case, count_yes_case, count_all_case-count_yes_case ))
+		print('(因为登录模块多执行了9次，所以所有case真是条数条数应该为{}-9={})'.format(count_all_case, count_all_case-9))
+		print('没有运行的case是：')
+		for case_detail in count_no_case_detail:
+			print(case_detail)
 
 
 if __name__ == '__main__':

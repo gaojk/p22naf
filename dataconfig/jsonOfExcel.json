@@ -10,6 +10,7 @@
   "sortByFunctionModule/cultureEstablish/OA_all_void_api_test_cultureEstablish": "no",
   "sortByFunctionModule/homePage/OA_all_void_api_test_homePage": "no",
   "sortByFunctionModule/loginRelative/OA_all_void_api_test_loginRelative": "no",
+  "sortByFunctionModule/organizationPlan/OA_all_void_api_test_organizationPlan": "no",
   "sortByFunctionModule/peopleManagement/OA_all_void_api_test_peopleManagement": "no",
   "sortByFunctionModule/personalSpace/OA_all_void_api_test_personalSpace": "no",
   "sortByFunctionModule/salaryManagement/OA_all_void_api_test_salaryManagement": "no",

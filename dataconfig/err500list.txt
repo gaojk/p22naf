@@ -1,91 +1,15 @@
 ---------
-2018-09-29 09:41:17.843069
-500
-http://oa.jc-saas.com.cn/staff/Contract/add
----------
-../dataconfig/tempXlsForLocateBug.xls
-2018-09-29 09:52:57.517945
-500
-http://oa.jc-saas.com.cn/staff/Contract/add
+../dataconfig/OA_all_void_api_test.xls
+2018-10-09 19:04:21.314096
+404
+http://oa.jc-saas.com.cn/system/remind/set_remind
 ---------
 ../dataconfig/OA_all_void_api_test.xls
-2018-09-29 16:22:04.846700
-404
-http://oa.jc-saas.com.cn/salary/Fixed/add_edit_fixed
----------
-../dataconfig/OA_all_void_api_test.xls
-2018-09-29 16:41:21.797762
-404
-http://oa.jc-saas.com.cn/salary/Fixed/add_edit_fixed
----------
-../dataconfig/OA_all_void_api_test.xls
-2018-09-29 16:42:40.426370
-404
-http://oa.jc-saas.com.cn/salary/Fixed/add_edit_fixed
----------
-../dataconfig/OA_all_void_api_test.xls
-2018-09-29 16:43:49.199043
-404
-http://oa.jc-saas.com.cn/salary/Fixed/add_edit_fixed
----------
-../dataconfig/OA_all_void_api_test.xls
-2018-09-29 16:45:05.824237
-404
-http://oa.jc-saas.com.cn/salary/Fixed/add_edit_fixed
----------
-../dataconfig/OA_all_void_api_test.xls
-2018-09-29 16:52:38.554717
-404
-http://oa.jc-saas.com.cn/salary/Fixed/add_edit_fixed
----------
-../dataconfig/OA_all_void_api_test.xls
-2018-09-29 16:55:55.482550
-404
-http://oa.jc-saas.com.cn/salary/Fixed/add_edit_fixed
-
-
----------
-../dataconfig/OA_all_void_api_test.xls
-2018-09-30 09:12:56.606902
-404
-http://oa.jc-saas.com.cn/salary/Fixed/add_edit_fixed
----------
-../dataconfig/tempXlsForLocateBug.xls
-2018-09-30 10:10:08.633196
+2018-10-09 19:04:59.739086
 500
-http://oa.jc-saas.com.cn/staff/Contract/add
----------
-../dataconfig/tempXlsForLocateBug.xls
-2018-09-30 10:10:50.597176
-500
-http://oa.jc-saas.com.cn/staff/Contract/add
----------
-../dataconfig/tempXlsForLocateBug.xls
-2018-09-30 10:11:30.087387
-500
-http://oa.jc-saas.com.cn/staff/Contract/add
----------
-≤‚ ‘≤‚ ‘
-2018-09-30 10:23:04.546186
-500
-http://oa.jc-saas.com.cn/staff/Contract/add
----------
-≤‚ ‘≤‚ ‘
-2018-09-30 10:25:52.575547
-500
-http://oa.jc-saas.com.cn/staff/Contract/add
----------
-../dataconfig/tempXlsForLocateBug.xls
-2018-09-30 10:33:15.194786
-500
-http://oa.jc-saas.com.cn/staff/Contract/add
----------
-../dataconfig/tempXlsForLocateBug.xls
-2018-09-30 10:40:06.681717
-500
-http://oa.jc-saas.com.cn/staff/Contract/add
+http://oa.jc-saas.com.cn/obs/dingSynchro
 ---------
 ../dataconfig/OA_all_void_api_test.xls
-2018-09-30 16:00:45.073074
+2018-10-09 19:05:05.302470
 404
-http://oa.jc-saas.com.cn/salary/Fixed/add_edit_fixed
+http://oa.jc-saas.com.cn/organization/duties/edit_grade£®∑œ∆˙£©

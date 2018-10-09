@@ -31,7 +31,7 @@ class OperetionJson:
 
 
 if __name__ == '__main__':
-	opjson = OperetionJson('../dataconfig/jsonDir/organizationPlan/organization-duties-get_type.json')
+	opjson = OperetionJson('../dataconfig/jsonDir/salaryManagement/salary-scheme-lists.json')
 	print(opjson.read_data())
-	print(opjson.get_data('none'))
+	print(opjson.get_data('voidAll'))
 	# print opjson.get_data('none')

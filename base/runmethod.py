@@ -73,7 +73,6 @@ class RunMethod:
 
 
 
-
 if __name__ == '__main__':
 	op_json = OperetionJson('../dataconfig/cookie.json')
 	cookie = op_json.get_data('token')
