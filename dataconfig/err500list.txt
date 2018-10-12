@@ -1,15 +1,31 @@
+
 ---------
 ../dataconfig/OA_all_void_api_test.xls
-2018-10-09 19:04:21.314096
+2018-10-10 09:08:09.882999
 404
 http://oa.jc-saas.com.cn/system/remind/set_remind
 ---------
 ../dataconfig/OA_all_void_api_test.xls
-2018-10-09 19:04:59.739086
-500
-http://oa.jc-saas.com.cn/obs/dingSynchro
+018-10-10 09:08:51.767009
+404
+http://oa.jc-saas.com.cn/organization/duties/edit_grade（록폴）
 ---------
 ../dataconfig/OA_all_void_api_test.xls
-2018-10-09 19:05:05.302470
+2018-10-12 14:35:04.985390
+404
+http://oa.jc-saas.com.cn/system/remind/set_remind
+---------
+../dataconfig/OA_all_void_api_test.xls
+2018-10-12 14:35:30.707702
+404
+http://oa.jc-saas.com.cn/staff/Contract/nosign
+---------
+../dataconfig/OA_all_void_api_test.xls
+2018-10-12 14:35:31.255804
+404
+http://oa.jc-saas.com.cn/staff/Contract/signList
+---------
+../dataconfig/OA_all_void_api_test.xls
+2018-10-12 14:35:46.190350
 404
 http://oa.jc-saas.com.cn/organization/duties/edit_grade（록폴）
