@@ -29,3 +29,23 @@ http://oa.jc-saas.com.cn/staff/Contract/signList
 2018-10-12 14:35:46.190350
 404
 http://oa.jc-saas.com.cn/organization/duties/edit_grade（록폴）
+---------
+../dataconfig/OA_all_void_api_test.xls
+2018-10-12 19:14:08.380834
+404
+http://oa.jc-saas.com.cn/system/remind/set_remind
+---------
+../dataconfig/OA_all_void_api_test.xls
+2018-10-12 19:14:33.236885
+404
+http://oa.jc-saas.com.cn/staff/Contract/nosign
+---------
+../dataconfig/OA_all_void_api_test.xls
+2018-10-12 19:14:33.779194
+404
+http://oa.jc-saas.com.cn/staff/Contract/signList
+---------
+../dataconfig/OA_all_void_api_test.xls
+2018-10-12 19:14:48.319841
+404
+http://oa.jc-saas.com.cn/organization/duties/edit_grade（록폴）
